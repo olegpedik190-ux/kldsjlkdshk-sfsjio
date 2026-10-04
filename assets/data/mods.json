@@ -12120,6 +12120,740 @@
           "date": 1790475709,
           "commit-sha": "15fa22a9cf227d570d6c2a03a3f9eb0beb65b532"
         }
+      },
+      {
+        "name": "Abaddon Endless Night Reborn",
+        "preview": "Abaddon Endless Night Reborn.webp",
+        "file": "Abaddon Endless Night Reborn.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1790475709,
+          "commit-sha": "15fa22a9cf227d570d6c2a03a3f9eb0beb65b532"
+        }
+      },
+      {
+        "name": "Luna Sematary Rainbow Bridge III",
+        "preview": "Luna Sematary Rainbow Bridge III.webp",
+        "file": "Luna Sematary Rainbow Bridge III.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "preview",
+            "url": "https://youtu.be/22fhjCaN-XA"
+          },
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1790528261,
+          "commit-sha": "243ceefd7834ff795683f742f10796ed5115717f"
+        }
+      },
+      {
+        "name": "Juggernaut Ancient Arcana",
+        "preview": "Juggernaut Ancient Arcana.webp",
+        "file": "Juggernaut Ancient Arcana.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1790528664,
+          "commit-sha": "dfa509ee1b96c5e1ab062f60fea4b8893cc210c3"
+        }
+      },
+      {
+        "name": "Phoenix Vermillion Crucible",
+        "preview": "Phoenix Vermillion Crucible.webp",
+        "file": "Phoenix Vermillion Crucible.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1790528664,
+          "commit-sha": "dfa509ee1b96c5e1ab062f60fea4b8893cc210c3"
+        }
+      },
+      {
+        "name": "Juggernaut Lineage Kantusa",
+        "preview": "Juggernaut Lineage Kantusa.webp",
+        "file": "Juggernaut Lineage Kantusa.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1790558987,
+          "commit-sha": "dcd66b7f4db4a9203d2eda258c0286c60428be80"
+        }
+      },
+      {
+        "name": "Arc Warden Frosty Toy",
+        "preview": "Arc Warden Frosty Toy.webp",
+        "file": "Arc Warden Frosty Toy.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1790558987,
+          "commit-sha": "dcd66b7f4db4a9203d2eda258c0286c60428be80"
+        }
+      },
+      {
+        "name": "Dragon Knight Persona Reborn",
+        "preview": "Dragon Knight Persona Reborn.webp",
+        "file": "Dragon Knight Persona Reborn.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1790623547,
+          "commit-sha": "b32e1834c7134051c3b73a73e0c3420c82fd5ec6"
+        }
+      },
+      {
+        "name": "Juggernaut Aura",
+        "preview": "Juggernaut Aura.webp",
+        "file": "Juggernaut Aura.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Миша Талант"
+          }
+        ],
+        "meta": {
+          "date": 1790623547,
+          "commit-sha": "b32e1834c7134051c3b73a73e0c3420c82fd5ec6"
+        }
+      },
+      {
+        "name": "Enchantress Golubika",
+        "preview": "Enchantress Golubika.webp",
+        "file": "Enchantress Golubika.zip",
+        "meta": {
+          "date": 1790623547,
+          "commit-sha": "b32e1834c7134051c3b73a73e0c3420c82fd5ec6"
+        }
+      },
+      {
+        "name": "Morphling Akulenok",
+        "preview": "Morphling Akulenok.webp",
+        "file": "Morphling Akulenok.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Миша Талант"
+          }
+        ],
+        "meta": {
+          "date": 1790623547,
+          "commit-sha": "b32e1834c7134051c3b73a73e0c3420c82fd5ec6"
+        }
+      },
+      {
+        "name": "Largo Largling",
+        "preview": "Largo Largling.webp",
+        "file": "Largo Largling.zip",
+        "tags": {
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Миша Талант"
+          }
+        ],
+        "meta": {
+          "date": 1790623547,
+          "commit-sha": "b32e1834c7134051c3b73a73e0c3420c82fd5ec6"
+        }
+      },
+      {
+        "name": "Anti-Mage Fervent Conscript",
+        "preview": "Anti-Mage Fervent Conscript.webp",
+        "file": "Anti-Mage Fervent Conscript.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1790630988,
+          "commit-sha": "6a920a8addbebbdcce1f62076247f714d7362c44"
+        }
+      },
+      {
+        "name": "Morphling Green Immortal",
+        "preview": "Morphling Green Immortal.webp",
+        "file": "Morphling Green Immortal.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1790630988,
+          "commit-sha": "6a920a8addbebbdcce1f62076247f714d7362c44"
+        }
+      },
+      {
+        "name": "Kez Chickez",
+        "preview": "Kez Chickez.webp",
+        "file": "Kez Chickez.zip",
+        "tags": {
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Миша Талант"
+          }
+        ],
+        "meta": {
+          "date": 1790709328,
+          "commit-sha": "c4b50f745f2301852d6a8e4f17467298167a5a95"
+        }
+      },
+      {
+        "name": "Phantom Assassin Gothic",
+        "preview": "Phantom Assassin Gothic.webp",
+        "file": "Phantom Assassin Gothic.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Миша Талант"
+          }
+        ],
+        "meta": {
+          "date": 1790709328,
+          "commit-sha": "c4b50f745f2301852d6a8e4f17467298167a5a95"
+        }
+      },
+      {
+        "name": "Anti-Mage Persona Sakura",
+        "preview": "Anti-Mage Persona Sakura.webp",
+        "file": "Anti-Mage Persona Sakura.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1790709328,
+          "commit-sha": "c4b50f745f2301852d6a8e4f17467298167a5a95"
+        }
+      },
+      {
+        "name": "Storm Spirit Avice",
+        "preview": "Storm Spirit Avice.webp",
+        "file": "Storm Spirit Avice.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Harlord"
+          }
+        ],
+        "meta": {
+          "date": 1790809354,
+          "commit-sha": "f05eee91685f88f36f57e612f6e0b0ea86bc0d45"
+        }
+      },
+      {
+        "name": "Terrorblade Fire",
+        "preview": "Terrorblade Fire.webp",
+        "file": "Terrorblade Fire.zip",
+        "tags": {
+          "effects": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1790809354,
+          "commit-sha": "f05eee91685f88f36f57e612f6e0b0ea86bc0d45"
+        }
+      },
+      {
+        "name": "Anti-Mage Guilt Survivor",
+        "preview": "Anti-Mage Guilt Survivor.webp",
+        "file": "Anti-Mage Guilt Survivor.zip",
+        "tags": {
+          "effects": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "cursedseizures"
+          }
+        ],
+        "meta": {
+          "date": 1790809354,
+          "commit-sha": "f05eee91685f88f36f57e612f6e0b0ea86bc0d45"
+        }
+      },
+      {
+        "name": "Chen Perils Of The Red Banks",
+        "preview": "Chen Perils Of The Red Banks.webp",
+        "file": "Chen Perils Of The Red Banks.zip",
+        "tags": {
+          "effects": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Harlord"
+          }
+        ],
+        "meta": {
+          "date": 1790809354,
+          "commit-sha": "f05eee91685f88f36f57e612f6e0b0ea86bc0d45"
+        }
+      },
+      {
+        "name": "Brewmaster Snowdrift Pirat",
+        "preview": "Brewmaster Snowdrift Pirat.webp",
+        "file": "Brewmaster Snowdrift Pirat.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Миша Талант"
+          }
+        ],
+        "meta": {
+          "date": 1790809354,
+          "commit-sha": "f05eee91685f88f36f57e612f6e0b0ea86bc0d45"
+        }
+      },
+      {
+        "name": "Huskar Bleeding Edge",
+        "preview": "Huskar Bleeding Edge.webp",
+        "file": "Huskar Bleeding Edge.zip",
+        "tags": {
+          "effects": false
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Harlord"
+          }
+        ],
+        "meta": {
+          "date": 1790809354,
+          "commit-sha": "f05eee91685f88f36f57e612f6e0b0ea86bc0d45"
+        }
+      },
+      {
+        "name": "Lina Sharm Lady",
+        "preview": "Lina Sharm Lady.webp",
+        "file": "Lina Sharm Lady.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "modded",
+            "url": "1995rnx"
+          },
+          {
+            "type": "author",
+            "url": "Defiree"
+          }
+        ],
+        "meta": {
+          "date": 1790809354,
+          "commit-sha": "f05eee91685f88f36f57e612f6e0b0ea86bc0d45"
+        }
+      },
+      {
+        "name": "Shadow Fiend 7.28",
+        "preview": "Shadow Fiend 7.28.webp",
+        "file": "Shadow Fiend 7.28.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "not paradise"
+          }
+        ],
+        "meta": {
+          "date": 1790894654,
+          "commit-sha": "4cd72434812de8820f42e3bec2d93b4042093f3c"
+        }
+      },
+      {
+        "name": "Visage Vulture Wraith",
+        "preview": "Visage Vulture Wraith.webp",
+        "file": "Visage Vulture Wraith.zip",
+        "tags": {
+          "effects": false,
+          "icons": false
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "александр"
+          }
+        ],
+        "meta": {
+          "date": 1790894654,
+          "commit-sha": "4cd72434812de8820f42e3bec2d93b4042093f3c"
+        }
+      },
+      {
+        "name": "Enigma Infinity Space",
+        "preview": "Enigma Infinity Space.webp",
+        "file": "Enigma Infinity Space.zip",
+        "tags": {
+          "effects": true,
+          "icons": false
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "александр"
+          }
+        ],
+        "meta": {
+          "date": 1790894654,
+          "commit-sha": "4cd72434812de8820f42e3bec2d93b4042093f3c"
+        }
+      },
+      {
+        "name": "Kunkka Inquisitor Tide",
+        "preview": "Kunkka Inquisitor Tide.webp",
+        "file": "Kunkka Inquisitor Tide.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "александр"
+          }
+        ],
+        "meta": {
+          "date": 1790894654,
+          "commit-sha": "4cd72434812de8820f42e3bec2d93b4042093f3c"
+        }
+      },
+      {
+        "name": "Treant Protector Diretide",
+        "preview": "Treant Protector Diretide.webp",
+        "file": "Treant Protector Diretide.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Миша Талант"
+          }
+        ],
+        "meta": {
+          "date": 1790895746,
+          "commit-sha": "e64d07ddb192293df804e6d8a53c715bfb1c96ea"
+        }
+      },
+      {
+        "name": "Magnus Collapse",
+        "preview": "Magnus Collapse.webp",
+        "file": "Magnus Collapse.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "depex"
+          }
+        ],
+        "meta": {
+          "date": 1790895746,
+          "commit-sha": "e64d07ddb192293df804e6d8a53c715bfb1c96ea"
+        }
+      },
+      {
+        "name": "Enchantress Diretide Shimmer",
+        "preview": "Enchantress Diretide Shimmer.webp",
+        "file": "Enchantress Diretide Shimmer.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Миша Талант"
+          }
+        ],
+        "meta": {
+          "date": 1790895746,
+          "commit-sha": "e64d07ddb192293df804e6d8a53c715bfb1c96ea"
+        }
+      },
+      {
+        "name": "Chaos Knight Celestial Sentine",
+        "preview": "Chaos Knight Celestial Sentine.webp",
+        "file": "Chaos Knight Celestial Sentine.zip",
+        "tags": {
+          "effects": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Harlord"
+          }
+        ],
+        "meta": {
+          "date": 1790895746,
+          "commit-sha": "e64d07ddb192293df804e6d8a53c715bfb1c96ea"
+        }
+      },
+      {
+        "name": "Oracle Automaton Reborn",
+        "preview": "Oracle Automaton Reborn.webp",
+        "file": "Oracle Automaton Reborn.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1790895746,
+          "commit-sha": "e64d07ddb192293df804e6d8a53c715bfb1c96ea"
+        }
+      },
+      {
+        "name": "Slardar Diretide Shimmer",
+        "preview": "Slardar Diretide Shimmer.webp",
+        "file": "Slardar Diretide Shimmer.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Миша Талант"
+          }
+        ],
+        "meta": {
+          "date": 1790931352,
+          "commit-sha": "d0b980ffe25be606aa436430e6fb7f85bb4d39f8"
+        }
+      },
+      {
+        "name": "Lycan Collector 2021",
+        "preview": "Lycan Collector 2021.webp",
+        "file": "Lycan Collector 2021.zip",
+        "tags": {
+          "effects": false
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Harlord"
+          }
+        ],
+        "meta": {
+          "date": 1790931352,
+          "commit-sha": "d0b980ffe25be606aa436430e6fb7f85bb4d39f8"
+        }
+      },
+      {
+        "name": "Legion Commander Diretide",
+        "preview": "Legion Commander Diretide.webp",
+        "file": "Legion Commander Diretide.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Миша Талант"
+          }
+        ],
+        "meta": {
+          "date": 1790986277,
+          "commit-sha": "64b5a836b8f8e358070d6d12ad02e3a3aa3b0e0b"
+        }
+      },
+      {
+        "name": "Arc Warden The Last Survivor",
+        "preview": "Arc Warden The Last Survivor.webp",
+        "file": "Arc Warden The Last Survivor.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Schizo"
+          }
+        ],
+        "meta": {
+          "date": 1790988499,
+          "commit-sha": "2533b0f5d830434e2c196adbc4e6a7c49343bd9d"
+        }
+      },
+      {
+        "name": "Invoker Wyrdwing Exort",
+        "preview": "Invoker Wyrdwing Exort.webp",
+        "file": "Invoker Wyrdwing Exort.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "ibcsz"
+          }
+        ],
+        "meta": {
+          "date": 1790988499,
+          "commit-sha": "2533b0f5d830434e2c196adbc4e6a7c49343bd9d"
+        }
+      },
+      {
+        "name": "Morphling Yatoro Burning",
+        "preview": "Morphling Yatoro Burning.webp",
+        "file": "Morphling Yatoro Burning.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "cursedseizures"
+          }
+        ],
+        "meta": {
+          "date": 1790988499,
+          "commit-sha": "2533b0f5d830434e2c196adbc4e6a7c49343bd9d"
+        }
+      },
+      {
+        "name": "Tiny Cherepashka",
+        "preview": "Tiny Cherepashka.webp",
+        "file": "Tiny Cherepashka.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "твавт"
+          }
+        ],
+        "meta": {
+          "date": 1791104398,
+          "commit-sha": "498bdba5b7feba3784f75aa288e3a62a64625aea"
+        }
+      },
+      {
+        "name": "Tiny Frostivus",
+        "preview": "Tiny Frostivus.webp",
+        "file": "Tiny Frostivus.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "твавт"
+          }
+        ],
+        "meta": {
+          "date": 1791104398,
+          "commit-sha": "498bdba5b7feba3784f75aa288e3a62a64625aea"
+        }
       }
     ],
     "shaders": [
@@ -13544,7 +14278,106 @@
         {
           "id": "abaddon",
           "name": "Abaddon",
-          "mods": []
+          "mods": [
+            {
+              "name": "Broodmother Shaker Spiderlings",
+              "preview": "Broodmother Shaker Spiderlings.webp",
+              "file": "Broodmother Shaker Spiderlings.zip",
+              "tags": {
+                "effects": false,
+                "icons": false,
+                "spiderling": true
+              },
+              "links": [
+                {
+                  "type": "author",
+                  "url": "Новомодный"
+                }
+              ],
+              "meta": {
+                "date": 1791084718,
+                "commit-sha": "cc08deb856e5b1de01773f1a483a80ec4c07e8c4"
+              }
+            },
+            {
+              "name": "Keeper Of The Light BMW",
+              "preview": "Keeper Of The Light BMW.webp",
+              "file": "Keeper Of The Light BMW.zip",
+              "tags": {
+                "effects": false,
+                "icons": false,
+                "mount": true
+              },
+              "links": [
+                {
+                  "type": "source",
+                  "url": "https://t.me/waitureally"
+                }
+              ],
+              "meta": {
+                "date": 1790528261,
+                "commit-sha": "243ceefd7834ff795683f742f10796ed5115717f"
+              }
+            },
+            {
+              "name": "Magnus Shock of the Anvil Crimson",
+              "preview": "Magnus Shock of the Anvil Crimson.webp",
+              "file": "Magnus Shock of the Anvil Crimson.zip",
+              "tags": {
+                "effects": true,
+                "icons": true,
+                "weapon": true
+              },
+              "links": [
+                {
+                  "type": "author",
+                  "url": "depex"
+                }
+              ],
+              "meta": {
+                "date": 1790894654,
+                "commit-sha": "4cd72434812de8820f42e3bec2d93b4042093f3c"
+              }
+            },
+            {
+              "name": "Phantom Lancer Ravenblight",
+              "preview": "Phantom Lancer Ravenblight.webp",
+              "file": "Phantom Lancer Ravenblight.zip",
+              "tags": {
+                "weapon": true,
+                "effects": true
+              },
+              "links": [
+                {
+                  "type": "author",
+                  "url": "Harlord"
+                }
+              ],
+              "meta": {
+                "date": 1790809354,
+                "commit-sha": "f05eee91685f88f36f57e612f6e0b0ea86bc0d45"
+              }
+            },
+            {
+              "name": "Timbersaw Claw Frostbloom",
+              "preview": "Timbersaw Claw Frostbloom.webp",
+              "file": "Timbersaw Claw Frostbloom.zip",
+              "tags": {
+                "off-hand": true,
+                "effects": true
+              },
+              "links": [
+                {
+                  "type": "author",
+                  "url": "Harlord"
+                }
+              ],
+              "meta": {
+                "date": 1790895746,
+                "commit-sha": "e64d07ddb192293df804e6d8a53c715bfb1c96ea"
+              }
+            }
+          ]
         },
         {
           "id": "alchemist",
@@ -16993,6 +17826,21 @@
           "date": 1790267079,
           "commit-sha": "df0d5e0e9924aa5aebe0f1387c35ba60377a1dce"
         }
+      },
+      {
+        "name": "Stariy Bog Mega-Kill",
+        "preview": "Stariy Bog Mega-Kill.webp",
+        "file": "Stariy Bog Mega-Kill.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "rasstegai"
+          }
+        ],
+        "meta": {
+          "date": 1790528664,
+          "commit-sha": "dfa509ee1b96c5e1ab062f60fea4b8893cc210c3"
+        }
       }
     ],
     "announcers": [
@@ -17174,6 +18022,36 @@
           "date": 1790392857,
           "commit-sha": "178bff403a3ee7a92144a7f049f64257670086b5"
         }
+      },
+      {
+        "name": "Dark Carnaval Pedestal",
+        "preview": "Dark Carnaval Pedestal.webp",
+        "file": "Dark Carnaval Pedestal.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1790475709,
+          "commit-sha": "15fa22a9cf227d570d6c2a03a3f9eb0beb65b532"
+        }
+      },
+      {
+        "name": "Pedestal Shadow Fiend",
+        "preview": "Pedestal Shadow Fiend.webp",
+        "file": "Pedestal Shadow Fiend.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1790809354,
+          "commit-sha": "f05eee91685f88f36f57e612f6e0b0ea86bc0d45"
+        }
       }
     ],
     "parts": [
@@ -17250,6 +18128,85 @@
         "meta": {
           "date": 1790375737,
           "commit-sha": "38fcb0fe7dfab7a9a2d8bf5dcd4a34c18f67624a"
+        }
+      },
+      {
+        "name": "Windows Xp Top Bar",
+        "preview": "Windows Xp Top Bar.webp",
+        "file": "Windows Xp Top Bar.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1790528664,
+          "commit-sha": "dfa509ee1b96c5e1ab062f60fea4b8893cc210c3"
+        }
+      },
+      {
+        "name": "Larger Minimap",
+        "preview": "Larger Minimap.webp",
+        "file": "Larger Minimap.zip",
+        "guideId": "parts-info",
+        "guideType": "info",
+        "links": [
+          {
+            "type": "author",
+            "url": "YZT"
+          }
+        ],
+        "meta": {
+          "date": 1790894654,
+          "commit-sha": "4cd72434812de8820f42e3bec2d93b4042093f3c"
+        }
+      },
+      {
+        "name": "Larger Timer",
+        "preview": "Larger Timer.webp",
+        "file": "Larger Timer.zip",
+        "guideId": "parts-info",
+        "guideType": "info",
+        "links": [
+          {
+            "type": "author",
+            "url": "YZT"
+          }
+        ],
+        "meta": {
+          "date": 1790818573,
+          "commit-sha": "47054deb747d23b2ef090905c454a3dcb1267a5c"
+        }
+      },
+      {
+        "name": "Grey Search Bar",
+        "preview": "Grey Search Bar.webp",
+        "file": "Grey Search Bar.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "YZT"
+          }
+        ],
+        "meta": {
+          "date": 1790818573,
+          "commit-sha": "47054deb747d23b2ef090905c454a3dcb1267a5c"
+        }
+      },
+      {
+        "name": "Grey Minimap",
+        "preview": "Grey Minimap.webp",
+        "file": "Grey Minimap.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "YZT"
+          }
+        ],
+        "meta": {
+          "date": 1790825298,
+          "commit-sha": "3478dcb2ccb61f10aaa00ce7a7ec7a902306a0d5"
         }
       }
     ],
@@ -17523,6 +18480,21 @@
           "date": 1789988579,
           "commit-sha": "36a36d12dfca93ba12e06974613afb324c76b4be"
         }
+      },
+      {
+        "name": "Default Lite Hud",
+        "preview": "Default Lite Hud.webp",
+        "file": "Default Lite Hud.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "YZT"
+          }
+        ],
+        "meta": {
+          "date": 1790997589,
+          "commit-sha": "e220447f4574ac8503c07a8d0133297ce4a7b735"
+        }
       }
     ],
     "high-five": [
@@ -17747,6 +18719,21 @@
         "meta": {
           "date": 1790030268,
           "commit-sha": "c538a720e91c5b0ce1e3047761f36210fae25ed4"
+        }
+      },
+      {
+        "name": "Techies Minimap-Hero Mine Icon",
+        "preview": "Techies Minimap-Hero Mine Icon.webp",
+        "file": "Techies Minimap-Hero Mine Icon.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "hanfukj"
+          }
+        ],
+        "meta": {
+          "date": 1790818573,
+          "commit-sha": "47054deb747d23b2ef090905c454a3dcb1267a5c"
         }
       }
     ],
@@ -18857,6 +19844,78 @@
           "date": 1790375737,
           "commit-sha": "38fcb0fe7dfab7a9a2d8bf5dcd4a34c18f67624a"
         }
+      },
+      {
+        "name": "Bliss",
+        "preview": "Bliss.webp",
+        "file": "Bliss.zip",
+        "tags": {
+          "image": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1790528664,
+          "commit-sha": "dfa509ee1b96c5e1ab062f60fea4b8893cc210c3"
+        }
+      },
+      {
+        "name": "Gwardjan Tad Dawl Perfezzjoni",
+        "preview": "Gwardjan Tad Dawl Perfezzjoni.webp",
+        "file": "Gwardjan Tad Dawl Perfezzjoni.zip",
+        "tags": {
+          "image": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1790709328,
+          "commit-sha": "c4b50f745f2301852d6a8e4f17467298167a5a95"
+        }
+      },
+      {
+        "name": "Xvii",
+        "preview": "Xvii.webp",
+        "file": "Xvii.zip",
+        "tags": {
+          "image": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1790709328,
+          "commit-sha": "c4b50f745f2301852d6a8e4f17467298167a5a95"
+        }
+      },
+      {
+        "name": "The Great Awakening",
+        "preview": "The Great Awakening.webp",
+        "file": "The Great Awakening.zip",
+        "tags": {
+          "image": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1790709328,
+          "commit-sha": "c4b50f745f2301852d6a8e4f17467298167a5a95"
+        }
       }
     ],
     "tools": [
@@ -19421,6 +20480,21 @@
         "meta": {
           "date": 1790171120,
           "commit-sha": "29f0bf520aa8967f69934567e1b616be10e87f63"
+        }
+      },
+      {
+        "name": "Whatsapp Tranquill",
+        "preview": "Whatsapp Tranquill.webp",
+        "file": "Whatsapp Tranquill.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1790528664,
+          "commit-sha": "dfa509ee1b96c5e1ab062f60fea4b8893cc210c3"
         }
       }
     ],
@@ -21363,6 +22437,25 @@
         "meta": {
           "date": 1790424886,
           "commit-sha": "36df0a932f296ad9b9f6bc253534aef620ea85ed"
+        }
+      },
+      {
+        "name": "Naga Siren Growth Correction",
+        "preview": "Naga Siren Growth Correction.webp",
+        "file": "Naga Siren Growth Correction.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/oNn2btt7GHw?si=QnPV5ZjfOfxSe4Q9"
+          }
+        ],
+        "meta": {
+          "date": 1790809354,
+          "commit-sha": "f05eee91685f88f36f57e612f6e0b0ea86bc0d45"
         }
       }
     ],
