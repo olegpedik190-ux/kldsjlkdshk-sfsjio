@@ -12101,6 +12101,25 @@
           "date": 1790424886,
           "commit-sha": "36df0a932f296ad9b9f6bc253534aef620ea85ed"
         }
+      },
+      {
+        "name": "Bane Immortal",
+        "preview": "Bane Immortal.webp",
+        "file": "Bane Immortal.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Миша Талант"
+          }
+        ],
+        "meta": {
+          "date": 1790475709,
+          "commit-sha": "15fa22a9cf227d570d6c2a03a3f9eb0beb65b532"
+        }
       }
     ],
     "shaders": [
