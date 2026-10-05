@@ -12892,6 +12892,25 @@
           "date": 1791162755,
           "commit-sha": "24ce96d9589aefae228611d95066d99ab934b34e"
         }
+      },
+      {
+        "name": "Tidehunter Golden Diretide",
+        "preview": "Tidehunter Golden Diretide.webp",
+        "file": "Tidehunter Golden Diretide.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Миша Талант"
+          }
+        ],
+        "meta": {
+          "date": 1791162755,
+          "commit-sha": "24ce96d9589aefae228611d95066d99ab934b34e"
+        }
       }
     ],
     "shaders": [
