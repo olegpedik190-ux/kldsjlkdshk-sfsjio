@@ -12911,6 +12911,25 @@
           "date": 1791162755,
           "commit-sha": "24ce96d9589aefae228611d95066d99ab934b34e"
         }
+      },
+      {
+        "name": "Kunkka Leviathan",
+        "preview": "Kunkka Leviathan.webp",
+        "file": "Kunkka Leviathan.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "3atvorn1k"
+          }
+        ],
+        "meta": {
+          "date": 1791162755,
+          "commit-sha": "24ce96d9589aefae228611d95066d99ab934b34e"
+        }
       }
     ],
     "shaders": [
