@@ -12854,6 +12854,25 @@
           "date": 1791104398,
           "commit-sha": "498bdba5b7feba3784f75aa288e3a62a64625aea"
         }
+      },
+      {
+        "name": "Immortal Love Undying",
+        "preview": "Immortal Love Undying.webp",
+        "file": "Immortal Love Undying.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "rasstegai"
+          }
+        ],
+        "meta": {
+          "date": 1791162755,
+          "commit-sha": "24ce96d9589aefae228611d95066d99ab934b34e"
+        }
       }
     ],
     "shaders": [
