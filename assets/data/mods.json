@@ -22571,6 +22571,25 @@
           "date": 1790809354,
           "commit-sha": "f05eee91685f88f36f57e612f6e0b0ea86bc0d45"
         }
+      },
+      {
+        "name": "Shadow Fiend Ult Miura Xm Aura",
+        "preview": "Shadow Fiend Ult Miura Xm Aura.webp",
+        "file": "Shadow Fiend Ult Miura Xm Aura.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Harlord"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/PEi8x1BpvKs"
+          }
+        ],
+        "meta": {
+          "date": 1791162755,
+          "commit-sha": "24ce96d9589aefae228611d95066d99ab934b34e"
+        }
       }
     ],
     "sounds": [
