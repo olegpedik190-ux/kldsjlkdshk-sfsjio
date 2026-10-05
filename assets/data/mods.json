@@ -12873,6 +12873,25 @@
           "date": 1791162755,
           "commit-sha": "24ce96d9589aefae228611d95066d99ab934b34e"
         }
+      },
+      {
+        "name": "Luna Cosmic",
+        "preview": "Luna Cosmic.webp",
+        "file": "Luna Cosmic.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "твавт"
+          }
+        ],
+        "meta": {
+          "date": 1791162755,
+          "commit-sha": "24ce96d9589aefae228611d95066d99ab934b34e"
+        }
       }
     ],
     "shaders": [
