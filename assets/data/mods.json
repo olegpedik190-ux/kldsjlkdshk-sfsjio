@@ -13100,6 +13100,25 @@
           "date": 1791253117,
           "commit-sha": "949bcf40cd038aef70a7e584c0670c821dcb24a5"
         }
+      },
+      {
+        "name": "Windranger Papizi V2",
+        "preview": "Windranger Papizi V2.webp",
+        "file": "Windranger Papizi V2.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "rasstegai"
+          }
+        ],
+        "meta": {
+          "date": 1791282085,
+          "commit-sha": "e97ffd086566d1d6e7b4ffcc61514bde09f1c3c9"
+        }
       }
     ],
     "shaders": [
