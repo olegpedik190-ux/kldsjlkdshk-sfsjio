@@ -13013,6 +13013,21 @@
           "date": 1791253117,
           "commit-sha": "949bcf40cd038aef70a7e584c0670c821dcb24a5"
         }
+      },
+      {
+        "name": "Arc Warden Magician",
+        "preview": "Arc Warden Magician.webp",
+        "file": "Arc Warden Magician.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Schizo"
+          }
+        ],
+        "meta": {
+          "date": 1791253117,
+          "commit-sha": "949bcf40cd038aef70a7e584c0670c821dcb24a5"
+        }
       }
     ],
     "shaders": [
