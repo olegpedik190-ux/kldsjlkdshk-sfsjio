@@ -13081,6 +13081,25 @@
           "date": 1791253117,
           "commit-sha": "949bcf40cd038aef70a7e584c0670c821dcb24a5"
         }
+      },
+      {
+        "name": "Naga Siren Diretide",
+        "preview": "Naga Siren Diretide.webp",
+        "file": "Naga Siren Diretide.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Миша Талант"
+          }
+        ],
+        "meta": {
+          "date": 1791253117,
+          "commit-sha": "949bcf40cd038aef70a7e584c0670c821dcb24a5"
+        }
       }
     ],
     "shaders": [
