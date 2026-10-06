@@ -12998,6 +12998,21 @@
           "date": 1791203792,
           "commit-sha": "99f139fbb4f5aaa441d53b8234b03ea6979c8107"
         }
+      },
+      {
+        "name": "Earthshaker Tectonic",
+        "preview": "Earthshaker Tectonic.webp",
+        "file": "Earthshaker Tectonic.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791253117,
+          "commit-sha": "949bcf40cd038aef70a7e584c0670c821dcb24a5"
+        }
       }
     ],
     "shaders": [
