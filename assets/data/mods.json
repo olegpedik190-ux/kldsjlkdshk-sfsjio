@@ -13028,6 +13028,21 @@
           "date": 1791253117,
           "commit-sha": "949bcf40cd038aef70a7e584c0670c821dcb24a5"
         }
+      },
+      {
+        "name": "Wyrdwing Exaltation Invoker",
+        "preview": "Wyrdwing Exaltation Invoker.webp",
+        "file": "Wyrdwing Exaltation Invoker.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "rasstegai"
+          }
+        ],
+        "meta": {
+          "date": 1791253117,
+          "commit-sha": "949bcf40cd038aef70a7e584c0670c821dcb24a5"
+        }
       }
     ],
     "shaders": [
