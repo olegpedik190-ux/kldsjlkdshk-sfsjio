@@ -13119,6 +13119,24 @@
           "date": 1791282085,
           "commit-sha": "e97ffd086566d1d6e7b4ffcc61514bde09f1c3c9"
         }
+      },
+      {
+        "name": "Pudge Toy Inc Boss",
+        "preview": "Pudge Toy Inc Boss.webp",
+        "file": "Pudge Toy Inc Boss.zip",
+        "tags": {
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "твавт"
+          }
+        ],
+        "meta": {
+          "date": 1791298973,
+          "commit-sha": "9a3512e7e87d3c420b894579f57e2dc453c30065"
+        }
       }
     ],
     "shaders": [
