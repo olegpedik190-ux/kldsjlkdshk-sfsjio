@@ -13137,6 +13137,25 @@
           "date": 1791298973,
           "commit-sha": "9a3512e7e87d3c420b894579f57e2dc453c30065"
         }
+      },
+      {
+        "name": "Outworld Destroyer Exile",
+        "preview": "Outworld Destroyer Exile.webp",
+        "file": "Outworld Destroyer Exile.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791298973,
+          "commit-sha": "9a3512e7e87d3c420b894579f57e2dc453c30065"
+        }
       }
     ],
     "shaders": [
