@@ -13512,6 +13512,25 @@
           "date": 1791376639,
           "commit-sha": "8bc4694d7b33def509484b0c938d75d4ec8a350e"
         }
+      },
+      {
+        "name": "Legion Commander Hell Origin",
+        "preview": "Legion Commander Hell Origin.webp",
+        "file": "Legion Commander Hell Origin.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791380608,
+          "commit-sha": "04266960e4e7de9b4b11eac0297b3b0bbe357f2d"
+        }
       }
     ],
     "shaders": [
