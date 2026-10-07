@@ -13482,6 +13482,21 @@
           "date": 1791374590,
           "commit-sha": "026439e10b1e5e5b124395e12942077e3a9f0589"
         }
+      },
+      {
+        "name": "Shadow Fiend Fire",
+        "preview": "Shadow Fiend Fire.webp",
+        "file": "Shadow Fiend Fire.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1791374590,
+          "commit-sha": "026439e10b1e5e5b124395e12942077e3a9f0589"
+        }
       }
     ],
     "shaders": [
