@@ -13232,6 +13232,25 @@
           "date": 1791366544,
           "commit-sha": "bebbbb7736f4c52361ad0f49c2bb1d2662425123"
         }
+      },
+      {
+        "name": "Tidehunter Maw Of Megalodon",
+        "preview": "Tidehunter Maw Of Megalodon.webp",
+        "file": "Tidehunter Maw Of Megalodon.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791366544,
+          "commit-sha": "bebbbb7736f4c52361ad0f49c2bb1d2662425123"
+        }
       }
     ],
     "shaders": [
