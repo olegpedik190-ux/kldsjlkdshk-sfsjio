@@ -23411,6 +23411,21 @@
           "date": 1791366544,
           "commit-sha": "bebbbb7736f4c52361ad0f49c2bb1d2662425123"
         }
+      },
+      {
+        "name": "Wraith King Papich Attacks",
+        "preview": "Wraith King Papich Attacks.webp",
+        "file": "Wraith King Papich Attacks.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "shears001"
+          }
+        ],
+        "meta": {
+          "date": 1791374590,
+          "commit-sha": "026439e10b1e5e5b124395e12942077e3a9f0589"
+        }
       }
     ],
     "sounds": [
