@@ -13578,6 +13578,25 @@
           "date": 1791376639,
           "commit-sha": "8bc4694d7b33def509484b0c938d75d4ec8a350e"
         }
+      },
+      {
+        "name": "Marci Patchwork",
+        "preview": "Marci Patchwork.webp",
+        "file": "Marci Patchwork.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "твавт"
+          }
+        ],
+        "meta": {
+          "date": 1791379892,
+          "commit-sha": "6f877379124cc7462a0419e78b4e278787ab2ddd"
+        }
       }
     ],
     "shaders": [
