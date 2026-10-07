@@ -13270,6 +13270,21 @@
           "date": 1791366544,
           "commit-sha": "bebbbb7736f4c52361ad0f49c2bb1d2662425123"
         }
+      },
+      {
+        "name": "Luna Midnight Stalker",
+        "preview": "Luna Midnight Stalker.webp",
+        "file": "Luna Midnight Stalker.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1791369985,
+          "commit-sha": "3a1d12ce9bb697906370d7800a8f59da881fd4d9"
+        }
       }
     ],
     "shaders": [
