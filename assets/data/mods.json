@@ -13251,6 +13251,25 @@
           "date": 1791366544,
           "commit-sha": "bebbbb7736f4c52361ad0f49c2bb1d2662425123"
         }
+      },
+      {
+        "name": "Tidehunter Hammer Of Maeldrawn",
+        "preview": "Tidehunter Hammer Of Maeldrawn.webp",
+        "file": "Tidehunter Hammer Of Maeldrawn.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791366544,
+          "commit-sha": "bebbbb7736f4c52361ad0f49c2bb1d2662425123"
+        }
       }
     ],
     "shaders": [
