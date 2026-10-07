@@ -18122,6 +18122,15 @@
           "date": 1770899849,
           "commit-sha": "33e49eba125663f6fabdb51993657cfc8bffb866"
         }
+      },
+      {
+        "name": "Eternal Roshan",
+        "preview": "Eternal Roshan.webp",
+        "file": "Eternal Roshan.zip",
+        "meta": {
+          "date": 1791372524,
+          "commit-sha": "4ec6ef53ea875ccfa7c5447e0a7d2c4518f9be84"
+        }
       }
     ],
     "ancient": [
