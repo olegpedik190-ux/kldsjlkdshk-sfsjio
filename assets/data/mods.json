@@ -13175,6 +13175,25 @@
           "date": 1791298973,
           "commit-sha": "9a3512e7e87d3c420b894579f57e2dc453c30065"
         }
+      },
+      {
+        "name": "Naga Siren Immortal",
+        "preview": "Naga Siren Immortal.webp",
+        "file": "Naga Siren Immortal.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "3atvorn1k"
+          }
+        ],
+        "meta": {
+          "date": 1791342818,
+          "commit-sha": "79a9a1f564d4895caacac2c8420abe3699ea4a75"
+        }
       }
     ],
     "shaders": [
