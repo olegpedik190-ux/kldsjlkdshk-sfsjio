@@ -18927,6 +18927,21 @@
           "date": 1790809354,
           "commit-sha": "f05eee91685f88f36f57e612f6e0b0ea86bc0d45"
         }
+      },
+      {
+        "name": "Tidehunter Arcana Pedestal",
+        "preview": "Tidehunter Arcana Pedestal.webp",
+        "file": "Tidehunter Arcana Pedestal.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "depex"
+          }
+        ],
+        "meta": {
+          "date": 1791365613,
+          "commit-sha": "482d6968540bad0f24a73cd9ed030cf40ea4314d"
+        }
       }
     ],
     "parts": [
