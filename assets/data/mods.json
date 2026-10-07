@@ -13448,6 +13448,25 @@
           "date": 1791374590,
           "commit-sha": "026439e10b1e5e5b124395e12942077e3a9f0589"
         }
+      },
+      {
+        "name": "Greasepaint Gutbuster Pudge",
+        "preview": "Greasepaint Gutbuster Pudge.webp",
+        "file": "Greasepaint Gutbuster Pudge.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "rasstegai"
+          }
+        ],
+        "meta": {
+          "date": 1791374590,
+          "commit-sha": "026439e10b1e5e5b124395e12942077e3a9f0589"
+        }
       }
     ],
     "shaders": [
