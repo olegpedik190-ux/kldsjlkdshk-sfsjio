@@ -13361,6 +13361,21 @@
           "date": 1791369985,
           "commit-sha": "3a1d12ce9bb697906370d7800a8f59da881fd4d9"
         }
+      },
+      {
+        "name": "Naga Siren Coral Cultist Frost",
+        "preview": "Naga Siren Coral Cultist Frost.webp",
+        "file": "Naga Siren Coral Cultist Frost.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1791372524,
+          "commit-sha": "4ec6ef53ea875ccfa7c5447e0a7d2c4518f9be84"
+        }
       }
     ],
     "shaders": [
