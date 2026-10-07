@@ -13673,6 +13673,25 @@
           "date": 1791383152,
           "commit-sha": "f32b3c8478b1c5666edd5fb456c8f6a208c92395"
         }
+      },
+      {
+        "name": "Anti-Mage Mod Rotten",
+        "preview": "Anti-Mage Mod Rotten.webp",
+        "file": "Anti-Mage Mod Rotten.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Mopsyara"
+          }
+        ],
+        "meta": {
+          "date": 1791383152,
+          "commit-sha": "f32b3c8478b1c5666edd5fb456c8f6a208c92395"
+        }
       }
     ],
     "shaders": [
