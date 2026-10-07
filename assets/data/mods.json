@@ -15214,6 +15214,25 @@
                 "date": 1790895746,
                 "commit-sha": "e64d07ddb192293df804e6d8a53c715bfb1c96ea"
               }
+            },
+            {
+              "name": "Zeleniy Techies",
+              "preview": "Zeleniy Techies.webp",
+              "file": "Zeleniy Techies.zip",
+              "tags": {
+                "cart": true,
+                "effects": true
+              },
+              "links": [
+                {
+                  "type": "author",
+                  "url": "shears001"
+                }
+              ],
+              "meta": {
+                "date": 1791374590,
+                "commit-sha": "026439e10b1e5e5b124395e12942077e3a9f0589"
+              }
             }
           ]
         },
