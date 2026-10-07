@@ -13544,6 +13544,21 @@
           "date": 1791376639,
           "commit-sha": "8bc4694d7b33def509484b0c938d75d4ec8a350e"
         }
+      },
+      {
+        "name": "Hoodwink Spring Tide Raider",
+        "preview": "Hoodwink Spring Tide Raider.webp",
+        "file": "Hoodwink Spring Tide Raider.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1791376639,
+          "commit-sha": "8bc4694d7b33def509484b0c938d75d4ec8a350e"
+        }
       }
     ],
     "shaders": [
