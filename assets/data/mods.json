@@ -13410,6 +13410,25 @@
           "date": 1791372524,
           "commit-sha": "4ec6ef53ea875ccfa7c5447e0a7d2c4518f9be84"
         }
+      },
+      {
+        "name": "Rictus Ripper Terrorblade",
+        "preview": "Rictus Ripper Terrorblade.webp",
+        "file": "Rictus Ripper Terrorblade.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "rasstegai"
+          }
+        ],
+        "meta": {
+          "date": 1791372988,
+          "commit-sha": "7294abad443699f839b3b42ddf60a4b93a1997b0"
+        }
       }
     ],
     "shaders": [
