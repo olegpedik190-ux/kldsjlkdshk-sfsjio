@@ -13467,6 +13467,21 @@
           "date": 1791374590,
           "commit-sha": "026439e10b1e5e5b124395e12942077e3a9f0589"
         }
+      },
+      {
+        "name": "Lycan Vakir Min Silvath",
+        "preview": "Lycan Vakir Min Silvath.webp",
+        "file": "Lycan Vakir Min Silvath.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1791374590,
+          "commit-sha": "026439e10b1e5e5b124395e12942077e3a9f0589"
+        }
       }
     ],
     "shaders": [
