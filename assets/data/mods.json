@@ -13559,6 +13559,25 @@
           "date": 1791376639,
           "commit-sha": "8bc4694d7b33def509484b0c938d75d4ec8a350e"
         }
+      },
+      {
+        "name": "Broodmother Anathema",
+        "preview": "Broodmother Anathema.webp",
+        "file": "Broodmother Anathema.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "твавт"
+          }
+        ],
+        "meta": {
+          "date": 1791376639,
+          "commit-sha": "8bc4694d7b33def509484b0c938d75d4ec8a350e"
+        }
       }
     ],
     "shaders": [
