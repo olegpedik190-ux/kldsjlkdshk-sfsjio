@@ -13304,6 +13304,25 @@
           "date": 1791369985,
           "commit-sha": "3a1d12ce9bb697906370d7800a8f59da881fd4d9"
         }
+      },
+      {
+        "name": "Drow Ranger Sepulchral Stealth",
+        "preview": "Drow Ranger Sepulchral Stealth.webp",
+        "file": "Drow Ranger Sepulchral Stealth.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791369985,
+          "commit-sha": "3a1d12ce9bb697906370d7800a8f59da881fd4d9"
+        }
       }
     ],
     "shaders": [
