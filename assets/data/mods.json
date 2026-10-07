@@ -13429,6 +13429,25 @@
           "date": 1791372988,
           "commit-sha": "7294abad443699f839b3b42ddf60a4b93a1997b0"
         }
+      },
+      {
+        "name": "Treant Protector Calabash",
+        "preview": "Treant Protector Calabash.webp",
+        "file": "Treant Protector Calabash.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "твавт"
+          }
+        ],
+        "meta": {
+          "date": 1791374590,
+          "commit-sha": "026439e10b1e5e5b124395e12942077e3a9f0589"
+        }
       }
     ],
     "shaders": [
