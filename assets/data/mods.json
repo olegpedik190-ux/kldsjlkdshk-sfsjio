@@ -19400,6 +19400,21 @@
           "date": 1791253117,
           "commit-sha": "949bcf40cd038aef70a7e584c0670c821dcb24a5"
         }
+      },
+      {
+        "name": "Smaller Hud",
+        "preview": "Smaller Hud.webp",
+        "file": "Smaller Hud.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "YZT"
+          }
+        ],
+        "meta": {
+          "date": 1791365613,
+          "commit-sha": "482d6968540bad0f24a73cd9ed030cf40ea4314d"
+        }
       }
     ],
     "high-five": [
