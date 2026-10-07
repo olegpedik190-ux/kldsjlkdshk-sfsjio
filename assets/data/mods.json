@@ -13597,6 +13597,25 @@
           "date": 1791379892,
           "commit-sha": "6f877379124cc7462a0419e78b4e278787ab2ddd"
         }
+      },
+      {
+        "name": "Shadow Shaman Wyrmbender",
+        "preview": "Shadow Shaman Wyrmbender.webp",
+        "file": "Shadow Shaman Wyrmbender.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791380608,
+          "commit-sha": "04266960e4e7de9b4b11eac0297b3b0bbe357f2d"
+        }
       }
     ],
     "shaders": [
