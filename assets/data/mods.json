@@ -13213,6 +13213,25 @@
           "date": 1791342818,
           "commit-sha": "79a9a1f564d4895caacac2c8420abe3699ea4a75"
         }
+      },
+      {
+        "name": "Tidehunter Unfathomable Hunger",
+        "preview": "Tidehunter Unfathomable Hunger.webp",
+        "file": "Tidehunter Unfathomable Hunger.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791366544,
+          "commit-sha": "bebbbb7736f4c52361ad0f49c2bb1d2662425123"
+        }
       }
     ],
     "shaders": [
