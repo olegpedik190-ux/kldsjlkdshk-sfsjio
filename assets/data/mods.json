@@ -13844,6 +13844,25 @@
           "date": 1791459372,
           "commit-sha": "a7b94b0df38bee713f23cfc8813d0cf846402f5d"
         }
+      },
+      {
+        "name": "Endless Storm Chaos Knight",
+        "preview": "Endless Storm Chaos Knight.webp",
+        "file": "Endless Storm Chaos Knight.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "rasstegai"
+          }
+        ],
+        "meta": {
+          "date": 1791462345,
+          "commit-sha": "361428bfd6b2424e9ee9c8a11c634097e9d660ce"
+        }
       }
     ],
     "shaders": [
