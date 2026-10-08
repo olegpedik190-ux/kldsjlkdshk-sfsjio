@@ -13863,6 +13863,25 @@
           "date": 1791462345,
           "commit-sha": "361428bfd6b2424e9ee9c8a11c634097e9d660ce"
         }
+      },
+      {
+        "name": "Terrorblade Rictus Blade",
+        "preview": "Terrorblade Rictus Blade.webp",
+        "file": "Terrorblade Rictus Blade.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791462345,
+          "commit-sha": "361428bfd6b2424e9ee9c8a11c634097e9d660ce"
+        }
       }
     ],
     "shaders": [
