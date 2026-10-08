@@ -13692,6 +13692,25 @@
           "date": 1791383152,
           "commit-sha": "f32b3c8478b1c5666edd5fb456c8f6a208c92395"
         }
+      },
+      {
+        "name": "Meepo Mafia",
+        "preview": "Meepo Mafia.webp",
+        "file": "Meepo Mafia.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "твавт"
+          }
+        ],
+        "meta": {
+          "date": 1791389366,
+          "commit-sha": "3c6341c52e1e831cb17128c7e05886b8b8ce5619"
+        }
       }
     ],
     "shaders": [
