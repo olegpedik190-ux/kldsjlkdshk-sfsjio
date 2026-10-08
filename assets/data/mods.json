@@ -13730,6 +13730,25 @@
           "date": 1791449984,
           "commit-sha": "0b3038bfda6cfc668799e09d3559997e53aac82e"
         }
+      },
+      {
+        "name": "Luna Blood Moon",
+        "preview": "Luna Blood Moon.webp",
+        "file": "Luna Blood Moon.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "qizlik"
+          }
+        ],
+        "meta": {
+          "date": 1791449984,
+          "commit-sha": "0b3038bfda6cfc668799e09d3559997e53aac82e"
+        }
       }
     ],
     "shaders": [
