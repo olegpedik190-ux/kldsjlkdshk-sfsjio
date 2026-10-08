@@ -22555,6 +22555,15 @@
           "date": 1791386142,
           "commit-sha": "5a449d5944731d90687d11c2278f040856b0b1a6"
         }
+      },
+      {
+        "name": "Megalodon Cursor",
+        "preview": "Megalodon Cursor.webp",
+        "file": "Megalodon Cursor.zip",
+        "meta": {
+          "date": 1791386142,
+          "commit-sha": "5a449d5944731d90687d11c2278f040856b0b1a6"
+        }
       }
     ],
     "fonts": [
