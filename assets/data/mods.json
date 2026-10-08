@@ -22546,6 +22546,15 @@
           "date": 1784360373,
           "commit-sha": "3852272d672318d9c6b076788a9b6c10a5d6481f"
         }
+      },
+      {
+        "name": "Sepulchral Stalker Cursor",
+        "preview": "Sepulchral Stalker Cursor.webp",
+        "file": "Sepulchral Stalker Cursor.zip",
+        "meta": {
+          "date": 1791386142,
+          "commit-sha": "5a449d5944731d90687d11c2278f040856b0b1a6"
+        }
       }
     ],
     "fonts": [
