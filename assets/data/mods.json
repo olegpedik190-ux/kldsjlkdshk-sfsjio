@@ -13939,6 +13939,25 @@
           "date": 1791469530,
           "commit-sha": ""
         }
+      },
+      {
+        "name": "Primal Beast Strongbox Reborn",
+        "preview": "Primal Beast Strongbox Reborn.webp",
+        "file": "Primal Beast Strongbox Reborn.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791469530,
+          "commit-sha": ""
+        }
       }
     ],
     "shaders": [
