@@ -13920,6 +13920,25 @@
           "date": 1791469530,
           "commit-sha": ""
         }
+      },
+      {
+        "name": "Earthshaker Arcana Reborn",
+        "preview": "Earthshaker Arcana Reborn.webp",
+        "file": "Earthshaker Arcana Reborn.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791469530,
+          "commit-sha": ""
+        }
       }
     ],
     "shaders": [
