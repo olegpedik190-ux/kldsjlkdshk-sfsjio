@@ -13806,6 +13806,25 @@
           "date": 1791449984,
           "commit-sha": "0b3038bfda6cfc668799e09d3559997e53aac82e"
         }
+      },
+      {
+        "name": "Terrorblade Rictus Skadi",
+        "preview": "Terrorblade Rictus Skadi.webp",
+        "file": "Terrorblade Rictus Skadi.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791459372,
+          "commit-sha": "a7b94b0df38bee713f23cfc8813d0cf846402f5d"
+        }
       }
     ],
     "shaders": [
