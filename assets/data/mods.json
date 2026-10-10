@@ -23471,6 +23471,24 @@
           "date": 1791612287,
           "commit-sha": "a5ebca5079e2cfe60d528c2c03fa573d756db3de"
         }
+      },
+      {
+        "name": "Terrorblade Green Spell Icons",
+        "preview": "Terrorblade Green Spell Icons.webp",
+        "file": "Terrorblade Green Spell Icons.zip",
+        "tags": {
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1791636264,
+          "commit-sha": "8591a412d2c1b2221c3a03820ffda9a53a243c6f"
+        }
       }
     ],
     "hero-sounds": [
