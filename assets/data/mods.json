@@ -14205,6 +14205,25 @@
           "date": 1791610372,
           "commit-sha": "44ef0eec012df97614bbbc05af0cbab47c1042c9"
         }
+      },
+      {
+        "name": "Terrorblade Rictus Blood",
+        "preview": "Terrorblade Rictus Blood.webp",
+        "file": "Terrorblade Rictus Blood.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "qizlik"
+          }
+        ],
+        "meta": {
+          "date": 1791612287,
+          "commit-sha": "a5ebca5079e2cfe60d528c2c03fa573d756db3de"
+        }
       }
     ],
     "shaders": [
