@@ -14167,6 +14167,25 @@
           "date": 1791549623,
           "commit-sha": "968ede7d5fc42b1a05719b6a511fbf83a7081639"
         }
+      },
+      {
+        "name": "Shadow Fiend Arcana Desolator",
+        "preview": "Shadow Fiend Arcana Desolator.webp",
+        "file": "Shadow Fiend Arcana Desolator.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791634769,
+          "commit-sha": "fbbd7ed41060d41281eb23bb8ea86f7b4b37364a"
+        }
       }
     ],
     "shaders": [
