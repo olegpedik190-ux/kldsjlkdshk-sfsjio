@@ -14186,6 +14186,25 @@
           "date": 1791634769,
           "commit-sha": "fbbd7ed41060d41281eb23bb8ea86f7b4b37364a"
         }
+      },
+      {
+        "name": "Drow Ranger Crimson Stalker",
+        "preview": "Drow Ranger Crimson Stalker.webp",
+        "file": "Drow Ranger Crimson Stalker.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791610372,
+          "commit-sha": "44ef0eec012df97614bbbc05af0cbab47c1042c9"
+        }
       }
     ],
     "shaders": [
