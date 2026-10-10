@@ -23543,6 +23543,24 @@
           "date": 1791636264,
           "commit-sha": "8591a412d2c1b2221c3a03820ffda9a53a243c6f"
         }
+      },
+      {
+        "name": "Terrorblade Pink Spell",
+        "preview": "Terrorblade Pink Spell.webp",
+        "file": "Terrorblade Pink Spell.zip",
+        "tags": {
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1791636264,
+          "commit-sha": "8591a412d2c1b2221c3a03820ffda9a53a243c6f"
+        }
       }
     ],
     "hero-sounds": [
