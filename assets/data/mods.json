@@ -14262,6 +14262,25 @@
           "date": 1791641981,
           "commit-sha": "32c7ddb9eadc07b72adf1881675ac688effd5785"
         }
+      },
+      {
+        "name": "Faceless Void Arcana 2 Reborn",
+        "preview": "Faceless Void Arcana 2 Reborn.webp",
+        "file": "Faceless Void Arcana 2 Reborn.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791645604,
+          "commit-sha": "74c13fe185e4a502282a310c5a198f49013a6d80"
+        }
       }
     ],
     "shaders": [
