@@ -19561,6 +19561,21 @@
           "date": 1791365613,
           "commit-sha": "482d6968540bad0f24a73cd9ed030cf40ea4314d"
         }
+      },
+      {
+        "name": "Claszian Apostasy Pedestal",
+        "preview": "Claszian Apostasy Pedestal.webp",
+        "file": "Claszian Apostasy Pedestal.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "depex"
+          }
+        ],
+        "meta": {
+          "date": 1791612287,
+          "commit-sha": "a5ebca5079e2cfe60d528c2c03fa573d756db3de"
+        }
       }
     ],
     "parts": [
