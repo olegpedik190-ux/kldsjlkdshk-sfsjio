@@ -19762,6 +19762,21 @@
           "date": 1791627251,
           "commit-sha": "95695f632a9074af7875d71cebfd113c6be53588"
         }
+      },
+      {
+        "name": "Gotic",
+        "preview": "Gotic.webp",
+        "file": "Gotic.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1791636264,
+          "commit-sha": "8591a412d2c1b2221c3a03820ffda9a53a243c6f"
+        }
       }
     ],
     "huds": [
