@@ -14053,6 +14053,25 @@
           "date": 1791520425,
           "commit-sha": "e932add322a2c9103b8b1ce426f9b3dddaaea1d7"
         }
+      },
+      {
+        "name": "Juggernaut Bladeform Origins",
+        "preview": "Juggernaut Bladeform Origins.webp",
+        "file": "Juggernaut Bladeform Origins.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791520425,
+          "commit-sha": "e932add322a2c9103b8b1ce426f9b3dddaaea1d7"
+        }
       }
     ],
     "shaders": [
