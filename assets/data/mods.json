@@ -14943,6 +14943,21 @@
                 "date": 1783594076,
                 "commit-sha": "5b062b0efbaa8b236dd852930184ab2ae49fafac"
               }
+            },
+            {
+              "name": "Tidehunter Deny",
+              "preview": "Tidehunter Deny.webp",
+              "file": "Tidehunter Deny.zip",
+              "links": [
+                {
+                  "type": "author",
+                  "url": "depex"
+                }
+              ],
+              "meta": {
+                "date": 1791610372,
+                "commit-sha": "44ef0eec012df97614bbbc05af0cbab47c1042c9"
+              }
             }
           ]
         },
