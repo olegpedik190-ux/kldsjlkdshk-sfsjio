@@ -19320,6 +19320,21 @@
           "date": 1790528664,
           "commit-sha": "dfa509ee1b96c5e1ab062f60fea4b8893cc210c3"
         }
+      },
+      {
+        "name": "10000Weeping Choirs Mega-Kill",
+        "preview": "10000Weeping Choirs Mega-Kill.webp",
+        "file": "10000Weeping Choirs Mega-Kill.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1791566552,
+          "commit-sha": "6bc2a3797a365cbb6b95ad8c4c5b75a3af966587"
+        }
       }
     ],
     "announcers": [
