@@ -23453,6 +23453,24 @@
           "date": 1790113207,
           "commit-sha": "5e9e3c3941694345c6e497ba39607a0eb9935c7c"
         }
+      },
+      {
+        "name": "Terrorblade White Icons",
+        "preview": "Terrorblade White Icons.webp",
+        "file": "Terrorblade White Icons.zip",
+        "tags": {
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1791612287,
+          "commit-sha": "a5ebca5079e2cfe60d528c2c03fa573d756db3de"
+        }
       }
     ],
     "hero-sounds": [
