@@ -14304,6 +14304,25 @@
           "date": 1791720440,
           "commit-sha": "3d4a2f8021e7cc39cd66ed89d5ece2d26b9e981a"
         }
+      },
+      {
+        "name": "Juggernaut Arima",
+        "preview": "Juggernaut Arima.webp",
+        "file": "Juggernaut Arima.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "qizlik"
+          }
+        ],
+        "meta": {
+          "date": 1791699101,
+          "commit-sha": "f3c53c071abcda29cbff1abe9c22a60fa694e8c2"
+        }
       }
     ],
     "shaders": [
