@@ -14281,6 +14281,29 @@
           "date": 1791645604,
           "commit-sha": "74c13fe185e4a502282a310c5a198f49013a6d80"
         }
+      },
+      {
+        "name": "Wraith King Papich",
+        "preview": "Wraith King Papich.webp",
+        "file": "Wraith King Papich.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          },
+          {
+            "type": "preview",
+            "url": "https://www.youtube.com/watch?v=4AUc4nB0utk"
+          }
+        ],
+        "meta": {
+          "date": 1791720440,
+          "commit-sha": "3d4a2f8021e7cc39cd66ed89d5ece2d26b9e981a"
+        }
       }
     ],
     "shaders": [
