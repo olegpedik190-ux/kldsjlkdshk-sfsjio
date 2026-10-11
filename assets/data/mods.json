@@ -24299,6 +24299,25 @@
           "date": 1791374590,
           "commit-sha": "026439e10b1e5e5b124395e12942077e3a9f0589"
         }
+      },
+      {
+        "name": "Tinker Laser Contra Whistle",
+        "preview": "Tinker Laser Contra Whistle.webp",
+        "file": "Tinker Laser Contra Whistle.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "EmodzI"
+          },
+          {
+            "type": "preview",
+            "url": "https://www.youtube.com/watch?v=44PscVk7kWs"
+          }
+        ],
+        "meta": {
+          "date": 1791701314,
+          "commit-sha": "8aceb4a46b4958c7eced3b64540289ff9bef8912"
+        }
       }
     ],
     "sounds": [
