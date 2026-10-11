@@ -23637,6 +23637,24 @@
           "date": 1791636264,
           "commit-sha": "8591a412d2c1b2221c3a03820ffda9a53a243c6f"
         }
+      },
+      {
+        "name": "Terrorblade Yellow Spell",
+        "preview": "Terrorblade Yellow Spell.webp",
+        "file": "Terrorblade Yellow Spell.zip",
+        "tags": {
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1791699101,
+          "commit-sha": "f3c53c071abcda29cbff1abe9c22a60fa694e8c2"
+        }
       }
     ],
     "hero-sounds": [
