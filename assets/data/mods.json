@@ -25213,6 +25213,25 @@
           "date": 1791908483,
           "commit-sha": "16c77ccd66fac0402db607f8078cf8bb758b286b"
         }
+      },
+      {
+        "name": "Wraith King Papich Pamparam",
+        "preview": "Wraith King Papich Pamparam.webp",
+        "file": "Wraith King Papich Pamparam.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/c_ZaeL3__zw"
+          }
+        ],
+        "meta": {
+          "date": 1791908483,
+          "commit-sha": "16c77ccd66fac0402db607f8078cf8bb758b286b"
+        }
       }
     ],
     "sounds": [
