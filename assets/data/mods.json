@@ -14782,6 +14782,25 @@
           "date": 1791904368,
           "commit-sha": "71bfe58b6cb60043cee0c17f351af8c14896108e"
         }
+      },
+      {
+        "name": "Dazzle Immortal",
+        "preview": "Dazzle Immortal.webp",
+        "file": "Dazzle Immortal.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "hizu"
+          }
+        ],
+        "meta": {
+          "date": 1791922171,
+          "commit-sha": "f0d91076662887030c9791f701586acb9aa35203"
+        }
       }
     ],
     "shaders": [
