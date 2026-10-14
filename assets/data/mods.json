@@ -20172,6 +20172,21 @@
           "date": 1791612287,
           "commit-sha": "a5ebca5079e2cfe60d528c2c03fa573d756db3de"
         }
+      },
+      {
+        "name": "Pedestal V1",
+        "preview": "Pedestal V1.webp",
+        "file": "Pedestal V1.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1791964895,
+          "commit-sha": "2702b8b99fbd0795c2eaeb6ade264df4e698c842"
+        }
       }
     ],
     "parts": [
