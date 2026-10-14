@@ -20418,6 +20418,21 @@
           "date": 1791908483,
           "commit-sha": "16c77ccd66fac0402db607f8078cf8bb758b286b"
         }
+      },
+      {
+        "name": "Rose Lycoris Mode Cards",
+        "preview": "Rose Lycoris Mode Cards.webp",
+        "file": "Rose Lycoris Mode Cards.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "chineseg0d"
+          }
+        ],
+        "meta": {
+          "date": 1791964895,
+          "commit-sha": "2702b8b99fbd0795c2eaeb6ade264df4e698c842"
+        }
       }
     ],
     "huds": [
