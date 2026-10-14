@@ -25232,6 +25232,21 @@
           "date": 1791908483,
           "commit-sha": "16c77ccd66fac0402db607f8078cf8bb758b286b"
         }
+      },
+      {
+        "name": "Shadow Fiend Bismilyah",
+        "preview": "Shadow Fiend Bismilyah.webp",
+        "file": "Shadow Fiend Bismilyah.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Tom4ik"
+          }
+        ],
+        "meta": {
+          "date": 1791794920,
+          "commit-sha": "19c53b71608a56d9457388c6bf5f07e59085779f"
+        }
       }
     ],
     "sounds": [
