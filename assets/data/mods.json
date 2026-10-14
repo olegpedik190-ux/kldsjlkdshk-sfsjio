@@ -16414,6 +16414,25 @@
                 "date": 1791374590,
                 "commit-sha": "026439e10b1e5e5b124395e12942077e3a9f0589"
               }
+            },
+            {
+              "name": "Kunkka Frostbloom Sword",
+              "preview": "Kunkka Frostbloom Sword.webp",
+              "file": "Kunkka Frostbloom Sword.zip",
+              "tags": {
+                "weapon": true,
+                "effects": true
+              },
+              "links": [
+                {
+                  "type": "author",
+                  "url": "Harlord"
+                }
+              ],
+              "meta": {
+                "date": 1791785647,
+                "commit-sha": "5b1e4edb695ec0e5aa06098c224de2d14b6b3a07"
+              }
             }
           ]
         },
