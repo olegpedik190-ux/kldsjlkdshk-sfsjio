@@ -14858,6 +14858,21 @@
           "date": 1791974606,
           "commit-sha": "54f2337f73c4af413e06f4808a02dde2305ed14d"
         }
+      },
+      {
+        "name": "Ancient Apparition Wight",
+        "preview": "Ancient Apparition Wight.webp",
+        "file": "Ancient Apparition Wight.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1792011470,
+          "commit-sha": "a43d0b4a646c936a946b114cf735db6ea0bca83d"
+        }
       }
     ],
     "shaders": [
