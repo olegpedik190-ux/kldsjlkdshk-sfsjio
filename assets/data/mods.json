@@ -21223,6 +21223,21 @@
           "date": 1791821609,
           "commit-sha": "c7b9836ca22826a51190fa0e9775a85254e8f455"
         }
+      },
+      {
+        "name": "Objective Timers",
+        "preview": "Objective Timers.webp",
+        "file": "Objective Timers.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "rizeru"
+          }
+        ],
+        "meta": {
+          "date": 1792011470,
+          "commit-sha": "a43d0b4a646c936a946b114cf735db6ea0bca83d"
+        }
       }
     ],
     "river": [
