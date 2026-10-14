@@ -20187,6 +20187,21 @@
           "date": 1791964895,
           "commit-sha": "2702b8b99fbd0795c2eaeb6ade264df4e698c842"
         }
+      },
+      {
+        "name": "Arcana Vengeful Spirit Pedest",
+        "preview": "Arcana Vengeful Spirit Pedest.webp",
+        "file": "Arcana Vengeful Spirit Pedest.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1791964895,
+          "commit-sha": "2702b8b99fbd0795c2eaeb6ade264df4e698c842"
+        }
       }
     ],
     "parts": [
