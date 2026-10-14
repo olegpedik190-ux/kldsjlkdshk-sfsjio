@@ -22722,6 +22722,21 @@
           "date": 1790263250,
           "commit-sha": "0b245237cf441eb51a1c322ed36e02b33a4aabd1"
         }
+      },
+      {
+        "name": "Chess Ranks",
+        "preview": "Chess Ranks.webp",
+        "file": "Chess Ranks.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "raddan"
+          }
+        ],
+        "meta": {
+          "date": 1791877099,
+          "commit-sha": "915a4b24d817f0aa21d8f32ab1260cbc945a0b82"
+        }
       }
     ],
     "item-icons": [
