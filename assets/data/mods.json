@@ -14512,6 +14512,25 @@
           "date": 1791785647,
           "commit-sha": "5b1e4edb695ec0e5aa06098c224de2d14b6b3a07"
         }
+      },
+      {
+        "name": "Phantom Lancer Black",
+        "preview": "Phantom Lancer Black.webp",
+        "file": "Phantom Lancer Black.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "CeoMods"
+          }
+        ],
+        "meta": {
+          "date": 1791794920,
+          "commit-sha": "19c53b71608a56d9457388c6bf5f07e59085779f"
+        }
       }
     ],
     "shaders": [
