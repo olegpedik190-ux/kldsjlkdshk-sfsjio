@@ -20795,6 +20795,21 @@
           "date": 1791365613,
           "commit-sha": "482d6968540bad0f24a73cd9ed030cf40ea4314d"
         }
+      },
+      {
+        "name": "Fluttershy Hud",
+        "preview": "Fluttershy Hud.webp",
+        "file": "Fluttershy Hud.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "raddan"
+          }
+        ],
+        "meta": {
+          "date": 1791877099,
+          "commit-sha": "915a4b24d817f0aa21d8f32ab1260cbc945a0b82"
+        }
       }
     ],
     "high-five": [
