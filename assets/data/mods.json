@@ -20572,6 +20572,21 @@
           "date": 1791974606,
           "commit-sha": "54f2337f73c4af413e06f4808a02dde2305ed14d"
         }
+      },
+      {
+        "name": "Naga Siren Cute Icon",
+        "preview": "Naga Siren Cute Icon.webp",
+        "file": "Naga Siren Cute Icon.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792011470,
+          "commit-sha": "a43d0b4a646c936a946b114cf735db6ea0bca83d"
+        }
       }
     ],
     "huds": [
