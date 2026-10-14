@@ -14376,6 +14376,25 @@
           "date": 1791793109,
           "commit-sha": "e0a18c474b11434dccb7c2b6d3bcff95e4c3ccc6"
         }
+      },
+      {
+        "name": "Broodmother Gray Immortals",
+        "preview": "Broodmother Gray Immortals.webp",
+        "file": "Broodmother Gray Immortals.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "3atvorn1k"
+          }
+        ],
+        "meta": {
+          "date": 1791699101,
+          "commit-sha": "f3c53c071abcda29cbff1abe9c22a60fa694e8c2"
+        }
       }
     ],
     "shaders": [
