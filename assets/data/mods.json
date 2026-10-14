@@ -14888,6 +14888,25 @@
           "date": 1792011470,
           "commit-sha": "a43d0b4a646c936a946b114cf735db6ea0bca83d"
         }
+      },
+      {
+        "name": "Ancient Apparition Sanity",
+        "preview": "Ancient Apparition Sanity.webp",
+        "file": "Ancient Apparition Sanity.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1792011470,
+          "commit-sha": "a43d0b4a646c936a946b114cf735db6ea0bca83d"
+        }
       }
     ],
     "shaders": [
