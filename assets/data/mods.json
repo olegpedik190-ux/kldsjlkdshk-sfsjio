@@ -14550,6 +14550,25 @@
           "date": 1791794920,
           "commit-sha": "19c53b71608a56d9457388c6bf5f07e59085779f"
         }
+      },
+      {
+        "name": "Morphling Crimson",
+        "preview": "Morphling Crimson.webp",
+        "file": "Morphling Crimson.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "CeoMods"
+          }
+        ],
+        "meta": {
+          "date": 1791794920,
+          "commit-sha": "19c53b71608a56d9457388c6bf5f07e59085779f"
+        }
       }
     ],
     "shaders": [
