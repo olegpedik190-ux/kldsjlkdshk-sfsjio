@@ -14588,6 +14588,25 @@
           "date": 1791794920,
           "commit-sha": "19c53b71608a56d9457388c6bf5f07e59085779f"
         }
+      },
+      {
+        "name": "Earthshaker Cosmic Arcana V2",
+        "preview": "Earthshaker Cosmic Arcana V2.webp",
+        "file": "Earthshaker Cosmic Arcana V2.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791821609,
+          "commit-sha": "c7b9836ca22826a51190fa0e9775a85254e8f455"
+        }
       }
     ],
     "shaders": [
