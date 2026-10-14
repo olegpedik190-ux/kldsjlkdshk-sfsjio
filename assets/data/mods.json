@@ -14645,6 +14645,25 @@
           "date": 1791821609,
           "commit-sha": "c7b9836ca22826a51190fa0e9775a85254e8f455"
         }
+      },
+      {
+        "name": "Luna Diretide Shimmer",
+        "preview": "Luna Diretide Shimmer.webp",
+        "file": "Luna Diretide Shimmer.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Миша Талант"
+          }
+        ],
+        "meta": {
+          "date": 1791861641,
+          "commit-sha": "9e06053152ee6c6accb350e4781bbddfbc59e17b"
+        }
       }
     ],
     "shaders": [
