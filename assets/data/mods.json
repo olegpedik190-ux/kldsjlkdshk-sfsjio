@@ -14679,6 +14679,25 @@
           "date": 1791861641,
           "commit-sha": "9e06053152ee6c6accb350e4781bbddfbc59e17b"
         }
+      },
+      {
+        "name": "Templar Assassin Black",
+        "preview": "Templar Assassin Black.webp",
+        "file": "Templar Assassin Black.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "3atvorn1k"
+          }
+        ],
+        "meta": {
+          "date": 1791861641,
+          "commit-sha": "9e06053152ee6c6accb350e4781bbddfbc59e17b"
+        }
       }
     ],
     "shaders": [
