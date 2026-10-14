@@ -20810,6 +20810,25 @@
           "date": 1791877099,
           "commit-sha": "915a4b24d817f0aa21d8f32ab1260cbc945a0b82"
         }
+      },
+      {
+        "name": "Noir Rose Hud",
+        "preview": "Noir Rose Hud.webp",
+        "file": "Noir Rose Hud.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "chineseg0d"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/nfFuNjl4epg"
+          }
+        ],
+        "meta": {
+          "date": 1791964895,
+          "commit-sha": "2702b8b99fbd0795c2eaeb6ade264df4e698c842"
+        }
       }
     ],
     "high-five": [
