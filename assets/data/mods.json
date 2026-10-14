@@ -25194,6 +25194,25 @@
           "date": 1791908483,
           "commit-sha": "16c77ccd66fac0402db607f8078cf8bb758b286b"
         }
+      },
+      {
+        "name": "Wraith King Papich",
+        "preview": "Wraith King Papich.webp",
+        "file": "Wraith King Papich.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/W-6HhLX9NsY"
+          }
+        ],
+        "meta": {
+          "date": 1791908483,
+          "commit-sha": "16c77ccd66fac0402db607f8078cf8bb758b286b"
+        }
       }
     ],
     "sounds": [
