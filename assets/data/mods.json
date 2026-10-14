@@ -14410,6 +14410,25 @@
           "date": 1791699101,
           "commit-sha": "f3c53c071abcda29cbff1abe9c22a60fa694e8c2"
         }
+      },
+      {
+        "name": "Spectre Phantom Advent V1",
+        "preview": "Spectre Phantom Advent V1.webp",
+        "file": "Spectre Phantom Advent V1.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791785647,
+          "commit-sha": "5b1e4edb695ec0e5aa06098c224de2d14b6b3a07"
+        }
       }
     ],
     "shaders": [
