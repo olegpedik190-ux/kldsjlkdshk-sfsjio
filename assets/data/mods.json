@@ -20587,6 +20587,21 @@
           "date": 1792011470,
           "commit-sha": "a43d0b4a646c936a946b114cf735db6ea0bca83d"
         }
+      },
+      {
+        "name": "Purple Minimap",
+        "preview": "Purple Minimap.webp",
+        "file": "Purple Minimap.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "YZT"
+          }
+        ],
+        "meta": {
+          "date": 1792011470,
+          "commit-sha": "a43d0b4a646c936a946b114cf735db6ea0bca83d"
+        }
       }
     ],
     "huds": [
