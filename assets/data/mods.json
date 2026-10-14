@@ -14626,6 +14626,25 @@
           "date": 1791821609,
           "commit-sha": "c7b9836ca22826a51190fa0e9775a85254e8f455"
         }
+      },
+      {
+        "name": "Terrorblade Load Out Rubiline",
+        "preview": "Terrorblade Load Out Rubiline.webp",
+        "file": "Terrorblade Load Out Rubiline.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "CeoMods"
+          }
+        ],
+        "meta": {
+          "date": 1791821609,
+          "commit-sha": "c7b9836ca22826a51190fa0e9775a85254e8f455"
+        }
       }
     ],
     "shaders": [
