@@ -22737,6 +22737,21 @@
           "date": 1791877099,
           "commit-sha": "915a4b24d817f0aa21d8f32ab1260cbc945a0b82"
         }
+      },
+      {
+        "name": "Rose Chinese Medals",
+        "preview": "Rose Chinese Medals.webp",
+        "file": "Rose Chinese Medals.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "chineseg0d"
+          }
+        ],
+        "meta": {
+          "date": 1791974606,
+          "commit-sha": "54f2337f73c4af413e06f4808a02dde2305ed14d"
+        }
       }
     ],
     "item-icons": [
