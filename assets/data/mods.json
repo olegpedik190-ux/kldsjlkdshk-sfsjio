@@ -24386,6 +24386,24 @@
           "date": 1791974153,
           "commit-sha": "16312307b1a6ebb6a9c50f0abac84cd5a3c00752"
         }
+      },
+      {
+        "name": "Terrorblade Purple Spell",
+        "preview": "Terrorblade Purple Spell.webp",
+        "file": "Terrorblade Purple Spell.zip",
+        "tags": {
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1791974153,
+          "commit-sha": "16312307b1a6ebb6a9c50f0abac84cd5a3c00752"
+        }
       }
     ],
     "hero-sounds": [
