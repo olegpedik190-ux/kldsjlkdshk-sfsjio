@@ -24404,6 +24404,24 @@
           "date": 1791974153,
           "commit-sha": "16312307b1a6ebb6a9c50f0abac84cd5a3c00752"
         }
+      },
+      {
+        "name": "Snapfire Blue Icon",
+        "preview": "Snapfire Blue Icon.webp",
+        "file": "Snapfire Blue Icon.zip",
+        "tags": {
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Tom4ik"
+          }
+        ],
+        "meta": {
+          "date": 1791794920,
+          "commit-sha": "19c53b71608a56d9457388c6bf5f07e59085779f"
+        }
       }
     ],
     "hero-sounds": [
