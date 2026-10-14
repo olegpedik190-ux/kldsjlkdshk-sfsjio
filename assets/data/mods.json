@@ -14839,6 +14839,25 @@
           "date": 1791964895,
           "commit-sha": "2702b8b99fbd0795c2eaeb6ade264df4e698c842"
         }
+      },
+      {
+        "name": "Phantom Assassin Altuxa",
+        "preview": "Phantom Assassin Altuxa.webp",
+        "file": "Phantom Assassin Altuxa.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "qizlik"
+          }
+        ],
+        "meta": {
+          "date": 1791974606,
+          "commit-sha": "54f2337f73c4af413e06f4808a02dde2305ed14d"
+        }
       }
     ],
     "shaders": [
