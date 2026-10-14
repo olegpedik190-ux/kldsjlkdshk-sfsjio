@@ -14478,6 +14478,25 @@
           "date": 1791785647,
           "commit-sha": "5b1e4edb695ec0e5aa06098c224de2d14b6b3a07"
         }
+      },
+      {
+        "name": "Spectre Phantom Ascension V2",
+        "preview": "Spectre Phantom Ascension V2.webp",
+        "file": "Spectre Phantom Ascension V2.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1791861641,
+          "commit-sha": "9e06053152ee6c6accb350e4781bbddfbc59e17b"
+        }
       }
     ],
     "shaders": [
