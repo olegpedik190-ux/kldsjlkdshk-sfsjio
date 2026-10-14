@@ -14444,6 +14444,25 @@
           "date": 1791785647,
           "commit-sha": "5b1e4edb695ec0e5aa06098c224de2d14b6b3a07"
         }
+      },
+      {
+        "name": "Slark Collector Fire",
+        "preview": "Slark Collector Fire.webp",
+        "file": "Slark Collector Fire.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Harlord"
+          }
+        ],
+        "meta": {
+          "date": 1791785647,
+          "commit-sha": "5b1e4edb695ec0e5aa06098c224de2d14b6b3a07"
+        }
       }
     ],
     "shaders": [
