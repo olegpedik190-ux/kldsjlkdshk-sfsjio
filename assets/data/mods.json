@@ -24368,6 +24368,24 @@
           "date": 1791699101,
           "commit-sha": "f3c53c071abcda29cbff1abe9c22a60fa694e8c2"
         }
+      },
+      {
+        "name": "Terrorblade White Spell",
+        "preview": "Terrorblade White Spell.webp",
+        "file": "Terrorblade White Spell.zip",
+        "tags": {
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1791974153,
+          "commit-sha": "16312307b1a6ebb6a9c50f0abac84cd5a3c00752"
+        }
       }
     ],
     "hero-sounds": [
