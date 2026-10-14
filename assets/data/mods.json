@@ -21069,6 +21069,21 @@
           "date": 1790818573,
           "commit-sha": "47054deb747d23b2ef090905c454a3dcb1267a5c"
         }
+      },
+      {
+        "name": "Pink Spell Radius",
+        "preview": "Pink Spell Radius.webp",
+        "file": "Pink Spell Radius.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "YZT"
+          }
+        ],
+        "meta": {
+          "date": 1791821609,
+          "commit-sha": "c7b9836ca22826a51190fa0e9775a85254e8f455"
+        }
       }
     ],
     "river": [
