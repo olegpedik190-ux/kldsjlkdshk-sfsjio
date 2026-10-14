@@ -25175,6 +25175,25 @@
           "date": 1791701314,
           "commit-sha": "8aceb4a46b4958c7eced3b64540289ff9bef8912"
         }
+      },
+      {
+        "name": "Doom Sematary Sound",
+        "preview": "Doom Sematary Sound.webp",
+        "file": "Doom Sematary Sound.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/6AvvruZpmU0"
+          }
+        ],
+        "meta": {
+          "date": 1791908483,
+          "commit-sha": "16c77ccd66fac0402db607f8078cf8bb758b286b"
+        }
       }
     ],
     "sounds": [
