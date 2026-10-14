@@ -14698,6 +14698,33 @@
           "date": 1791861641,
           "commit-sha": "9e06053152ee6c6accb350e4781bbddfbc59e17b"
         }
+      },
+      {
+        "name": "Terrorblade Really Black",
+        "preview": "Terrorblade Really Black.webp",
+        "file": "Terrorblade Really Black.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "depex"
+          },
+          {
+            "type": "modded",
+            "url": "CeoMods"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/SgzD38aN1K4"
+          }
+        ],
+        "meta": {
+          "date": 1791877099,
+          "commit-sha": "915a4b24d817f0aa21d8f32ab1260cbc945a0b82"
+        }
       }
     ],
     "shaders": [
