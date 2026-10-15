@@ -25867,6 +25867,21 @@
           "date": 1791922171,
           "commit-sha": "f0d91076662887030c9791f701586acb9aa35203"
         }
+      },
+      {
+        "name": "Sound To Battle! From Wot",
+        "preview": "Sound To Battle! From Wot.webp",
+        "file": "Sound To Battle! From Wot.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792055497,
+          "commit-sha": "cfcaca6f2dfcd37080abded6d0961f452ecb256f"
+        }
       }
     ],
     "packs": [
