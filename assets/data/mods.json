@@ -27852,6 +27852,21 @@
           "date": 1792055497,
           "commit-sha": "cfcaca6f2dfcd37080abded6d0961f452ecb256f"
         }
+      },
+      {
+        "name": "Terrorblade Orange Spell",
+        "preview": "Terrorblade Orange Spell.webp",
+        "file": "Terrorblade Orange Spell.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792055497,
+          "commit-sha": "cfcaca6f2dfcd37080abded6d0961f452ecb256f"
+        }
       }
     ]
   }
