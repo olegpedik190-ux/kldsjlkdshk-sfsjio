@@ -14907,6 +14907,25 @@
           "date": 1792011470,
           "commit-sha": "a43d0b4a646c936a946b114cf735db6ea0bca83d"
         }
+      },
+      {
+        "name": "Invoker Pack 1",
+        "preview": "Invoker Pack 1.webp",
+        "file": "Invoker Pack 1.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792050673,
+          "commit-sha": "af6577c93ace5de2622bd6062a980d396834de52"
+        }
       }
     ],
     "shaders": [
