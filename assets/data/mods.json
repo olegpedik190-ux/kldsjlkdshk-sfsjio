@@ -27791,6 +27791,23 @@
           "imageMissing": true
         }
       }
+    ],
+    "hero-icons": [
+      {
+        "name": "Snapfire Blue Icon",
+        "preview": "Snapfire Blue Icon.webp",
+        "file": "Snapfire Blue Icon.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Tom4ik"
+          }
+        ],
+        "meta": {
+          "date": 1792055497,
+          "commit-sha": "cfcaca6f2dfcd37080abded6d0961f452ecb256f"
+        }
+      }
     ]
   }
 }
