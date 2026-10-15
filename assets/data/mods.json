@@ -27837,6 +27837,21 @@
           "date": 1792055497,
           "commit-sha": "cfcaca6f2dfcd37080abded6d0961f452ecb256f"
         }
+      },
+      {
+        "name": "Terrorblade Green Spell",
+        "preview": "Terrorblade Green Spell.webp",
+        "file": "Terrorblade Green Spell.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792055497,
+          "commit-sha": "cfcaca6f2dfcd37080abded6d0961f452ecb256f"
+        }
       }
     ]
   }
