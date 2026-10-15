@@ -27867,6 +27867,21 @@
           "date": 1792055497,
           "commit-sha": "cfcaca6f2dfcd37080abded6d0961f452ecb256f"
         }
+      },
+      {
+        "name": "Terrorblade Black Spell",
+        "preview": "Terrorblade Black Spell.webp",
+        "file": "Terrorblade Black Spell.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792055497,
+          "commit-sha": "cfcaca6f2dfcd37080abded6d0961f452ecb256f"
+        }
       }
     ]
   }
