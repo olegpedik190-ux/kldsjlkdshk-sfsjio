@@ -21287,6 +21287,21 @@
           "date": 1792011470,
           "commit-sha": "a43d0b4a646c936a946b114cf735db6ea0bca83d"
         }
+      },
+      {
+        "name": "Old Shadow Fiend Secret Shop",
+        "preview": "Old Shadow Fiend Secret Shop.webp",
+        "file": "Old Shadow Fiend Secret Shop.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792050673,
+          "commit-sha": "af6577c93ace5de2622bd6062a980d396834de52"
+        }
       }
     ],
     "river": [
