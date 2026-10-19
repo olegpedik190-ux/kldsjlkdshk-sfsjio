@@ -20943,6 +20943,21 @@
           "date": 1792095190,
           "commit-sha": "7e2ea116d4b1c3f5383f2e848d4b27a05aaa753c"
         }
+      },
+      {
+        "name": "Cupsize Search Bar",
+        "preview": "Cupsize Search Bar.webp",
+        "file": "Cupsize Search Bar.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Tom4ik"
+          }
+        ],
+        "meta": {
+          "date": 1792235759,
+          "commit-sha": "d31458ad4e3eec5e05880f9de01b871de973420e"
+        }
       }
     ],
     "huds": [
