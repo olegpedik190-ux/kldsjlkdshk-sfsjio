@@ -26269,6 +26269,25 @@
           "date": 1792151800,
           "commit-sha": "4ee1cd716642148f38e0c2144e781659441e3ed2"
         }
+      },
+      {
+        "name": "Techies Chance Allahu Akbar",
+        "preview": "Techies Chance Allahu Akbar.webp",
+        "file": "Techies Chance Allahu Akbar.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/Ob7TGEiSdT8"
+          }
+        ],
+        "meta": {
+          "date": 1792151800,
+          "commit-sha": "4ee1cd716642148f38e0c2144e781659441e3ed2"
+        }
       }
     ],
     "sounds": [
