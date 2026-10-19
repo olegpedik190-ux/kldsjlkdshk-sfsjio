@@ -22970,6 +22970,24 @@
           "date": 1792286060,
           "commit-sha": "0689d9468fba3a00bc1c06025562bd5efd9dea23"
         }
+      },
+      {
+        "name": "Tcoaal Wallpaper V2",
+        "preview": "Tcoaal Wallpaper V2.webp",
+        "file": "Tcoaal Wallpaper V2.zip",
+        "tags": {
+          "image": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792286060,
+          "commit-sha": "0689d9468fba3a00bc1c06025562bd5efd9dea23"
+        }
       }
     ],
     "tools": [
