@@ -28589,6 +28589,21 @@
           "date": 1792151800,
           "commit-sha": "4ee1cd716642148f38e0c2144e781659441e3ed2"
         }
+      },
+      {
+        "name": "Phantom Assasssin Mogg",
+        "preview": "Phantom Assasssin Mogg.webp",
+        "file": "Phantom Assasssin Mogg.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792235759,
+          "commit-sha": "d31458ad4e3eec5e05880f9de01b871de973420e"
+        }
       }
     ]
   }
