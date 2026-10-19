@@ -15021,6 +15021,25 @@
           "date": 1792235759,
           "commit-sha": "d31458ad4e3eec5e05880f9de01b871de973420e"
         }
+      },
+      {
+        "name": "Axe Immortal Rampage",
+        "preview": "Axe Immortal Rampage.webp",
+        "file": "Axe Immortal Rampage.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1792235759,
+          "commit-sha": "d31458ad4e3eec5e05880f9de01b871de973420e"
+        }
       }
     ],
     "shaders": [
