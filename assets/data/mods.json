@@ -15093,6 +15093,24 @@
           "date": 1792330154,
           "commit-sha": "c44599205b70fe44b5f70cf268b825a2d584ccb2"
         }
+      },
+      {
+        "name": "Invoker Never",
+        "preview": "Invoker Never.webp",
+        "file": "Invoker Never.zip",
+        "tags": {
+          "effects": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "xvii"
+          }
+        ],
+        "meta": {
+          "date": 1792412054,
+          "commit-sha": "506a00fec3b0ed9867c85b91783db85bb8237447"
+        }
       }
     ],
     "shaders": [
