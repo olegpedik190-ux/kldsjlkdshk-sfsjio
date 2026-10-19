@@ -15002,6 +15002,25 @@
           "date": 1792235759,
           "commit-sha": "d31458ad4e3eec5e05880f9de01b871de973420e"
         }
+      },
+      {
+        "name": "Arc Warden Gray Monster",
+        "preview": "Arc Warden Gray Monster.webp",
+        "file": "Arc Warden Gray Monster.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "3atvorn1k"
+          }
+        ],
+        "meta": {
+          "date": 1792235759,
+          "commit-sha": "d31458ad4e3eec5e05880f9de01b871de973420e"
+        }
       }
     ],
     "shaders": [
