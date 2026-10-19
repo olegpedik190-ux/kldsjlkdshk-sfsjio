@@ -16803,6 +16803,26 @@
                 "date": 1791785647,
                 "commit-sha": "5b1e4edb695ec0e5aa06098c224de2d14b6b3a07"
               }
+            },
+            {
+              "name": "Terrorblade Foulfell Demon",
+              "preview": "Terrorblade Foulfell Demon.webp",
+              "file": "Terrorblade Foulfell Demon.zip",
+              "tags": {
+                "demon": true,
+                "effects": false,
+                "icons": false
+              },
+              "links": [
+                {
+                  "type": "author",
+                  "url": "cursedseizures"
+                }
+              ],
+              "meta": {
+                "date": 1792264217,
+                "commit-sha": "fa3bc4108919bec34831dcddaff2016d4120b62d"
+              }
             }
           ]
         },
