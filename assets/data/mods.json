@@ -20958,6 +20958,21 @@
           "date": 1792235759,
           "commit-sha": "d31458ad4e3eec5e05880f9de01b871de973420e"
         }
+      },
+      {
+        "name": "Play Pinkv2",
+        "preview": "Play Pinkv2.webp",
+        "file": "Play Pinkv2.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792330154,
+          "commit-sha": "c44599205b70fe44b5f70cf268b825a2d584ccb2"
+        }
       }
     ],
     "huds": [
