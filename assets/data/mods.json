@@ -28604,6 +28604,21 @@
           "date": 1792235759,
           "commit-sha": "d31458ad4e3eec5e05880f9de01b871de973420e"
         }
+      },
+      {
+        "name": "Shadow Fiend Arcana Fixv1",
+        "preview": "Shadow Fiend Arcana Fixv1.webp",
+        "file": "Shadow Fiend Arcana Fixv1.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792235759,
+          "commit-sha": "d31458ad4e3eec5e05880f9de01b871de973420e"
+        }
       }
     ]
   }
