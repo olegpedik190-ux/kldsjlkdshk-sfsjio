@@ -15111,6 +15111,25 @@
           "date": 1792412054,
           "commit-sha": "506a00fec3b0ed9867c85b91783db85bb8237447"
         }
+      },
+      {
+        "name": "Phantom Lancer Crimson Furry",
+        "preview": "Phantom Lancer Crimson Furry.webp",
+        "file": "Phantom Lancer Crimson Furry.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "zkll"
+          }
+        ],
+        "meta": {
+          "date": 1792412054,
+          "commit-sha": "506a00fec3b0ed9867c85b91783db85bb8237447"
+        }
       }
     ],
     "shaders": [
