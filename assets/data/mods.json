@@ -24161,6 +24161,21 @@
           "date": 1792060612,
           "commit-sha": "1e8f6286b1e590646ae3f1369ea63805c6f352a3"
         }
+      },
+      {
+        "name": "Derpy Hooves Donkey",
+        "preview": "Derpy Hooves Donkey.webp",
+        "file": "Derpy Hooves Donkey.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1792163562,
+          "commit-sha": "30eb722c703702846f6c1b0556864a46bd14f2ec"
+        }
       }
     ],
     "music": [
