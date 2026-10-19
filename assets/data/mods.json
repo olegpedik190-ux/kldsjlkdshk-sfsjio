@@ -22916,6 +22916,24 @@
           "date": 1792060612,
           "commit-sha": "1e8f6286b1e590646ae3f1369ea63805c6f352a3"
         }
+      },
+      {
+        "name": "Pug",
+        "preview": "Pug.webp",
+        "file": "Pug.zip",
+        "tags": {
+          "video": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Swin-РукаBlood"
+          }
+        ],
+        "meta": {
+          "date": 1792151800,
+          "commit-sha": "4ee1cd716642148f38e0c2144e781659441e3ed2"
+        }
       }
     ],
     "tools": [
