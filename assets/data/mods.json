@@ -23723,6 +23723,21 @@
           "date": 1792235759,
           "commit-sha": "d31458ad4e3eec5e05880f9de01b871de973420e"
         }
+      },
+      {
+        "name": "Frostivus Frost Trailgazer",
+        "preview": "Frostivus Frost Trailgazer.webp",
+        "file": "Frostivus Frost Trailgazer.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "socialbottommm"
+          }
+        ],
+        "meta": {
+          "date": 1792235759,
+          "commit-sha": "d31458ad4e3eec5e05880f9de01b871de973420e"
+        }
       }
     ],
     "couriers": [
