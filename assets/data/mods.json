@@ -26303,6 +26303,21 @@
           "date": 1792412054,
           "commit-sha": "506a00fec3b0ed9867c85b91783db85bb8237447"
         }
+      },
+      {
+        "name": "Anti-Mage Taunt Serega Pirat",
+        "preview": "Anti-Mage Taunt Serega Pirat.webp",
+        "file": "Anti-Mage Taunt Serega Pirat.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Swin-РукаBlood"
+          }
+        ],
+        "meta": {
+          "date": 1792412054,
+          "commit-sha": "506a00fec3b0ed9867c85b91783db85bb8237447"
+        }
       }
     ],
     "sounds": [
