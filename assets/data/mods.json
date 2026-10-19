@@ -14945,6 +14945,25 @@
           "date": 1792095190,
           "commit-sha": "7e2ea116d4b1c3f5383f2e848d4b27a05aaa753c"
         }
+      },
+      {
+        "name": "Terrorblade Emerald Arcana",
+        "preview": "Terrorblade Emerald Arcana.webp",
+        "file": "Terrorblade Emerald Arcana.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "cursedseizures"
+          }
+        ],
+        "meta": {
+          "date": 1792151800,
+          "commit-sha": "4ee1cd716642148f38e0c2144e781659441e3ed2"
+        }
       }
     ],
     "shaders": [
