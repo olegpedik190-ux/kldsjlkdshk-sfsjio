@@ -28574,6 +28574,21 @@
           "date": 1792055497,
           "commit-sha": "cfcaca6f2dfcd37080abded6d0961f452ecb256f"
         }
+      },
+      {
+        "name": "Shadow Fiend Zxcursed Icon",
+        "preview": "Shadow Fiend Zxcursed Icon.webp",
+        "file": "Shadow Fiend Zxcursed Icon.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792151800,
+          "commit-sha": "4ee1cd716642148f38e0c2144e781659441e3ed2"
+        }
       }
     ]
   }
