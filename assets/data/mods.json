@@ -20973,6 +20973,21 @@
           "date": 1792330154,
           "commit-sha": "c44599205b70fe44b5f70cf268b825a2d584ccb2"
         }
+      },
+      {
+        "name": "Topbar Pink",
+        "preview": "Topbar Pink.webp",
+        "file": "Topbar Pink.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792330154,
+          "commit-sha": "c44599205b70fe44b5f70cf268b825a2d584ccb2"
+        }
       }
     ],
     "huds": [
