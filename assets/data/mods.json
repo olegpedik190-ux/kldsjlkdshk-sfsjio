@@ -15055,6 +15055,25 @@
           "date": 1792275718,
           "commit-sha": "d06194602246139701f48f3b345468ea89ebff92"
         }
+      },
+      {
+        "name": "Lina Immortal Electric Gem",
+        "preview": "Lina Immortal Electric Gem.webp",
+        "file": "Lina Immortal Electric Gem.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "YZT"
+          }
+        ],
+        "meta": {
+          "date": 1792286060,
+          "commit-sha": "0689d9468fba3a00bc1c06025562bd5efd9dea23"
+        }
       }
     ],
     "shaders": [
