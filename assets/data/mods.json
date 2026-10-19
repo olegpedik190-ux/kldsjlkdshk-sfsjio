@@ -14926,6 +14926,25 @@
           "date": 1792050673,
           "commit-sha": "af6577c93ace5de2622bd6062a980d396834de52"
         }
+      },
+      {
+        "name": "Terrorblade Skadi Blossom Red",
+        "preview": "Terrorblade Skadi Blossom Red.webp",
+        "file": "Terrorblade Skadi Blossom Red.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "zkll"
+          }
+        ],
+        "meta": {
+          "date": 1792095190,
+          "commit-sha": "7e2ea116d4b1c3f5383f2e848d4b27a05aaa753c"
+        }
       }
     ],
     "shaders": [
