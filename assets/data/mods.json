@@ -23783,6 +23783,21 @@
           "date": 1792275718,
           "commit-sha": "d06194602246139701f48f3b345468ea89ebff92"
         }
+      },
+      {
+        "name": "Corruption Knight Statue",
+        "preview": "Corruption Knight Statue.webp",
+        "file": "Corruption Knight Statue.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "socialbottommm"
+          }
+        ],
+        "meta": {
+          "date": 1792330154,
+          "commit-sha": "c44599205b70fe44b5f70cf268b825a2d584ccb2"
+        }
       }
     ],
     "couriers": [
