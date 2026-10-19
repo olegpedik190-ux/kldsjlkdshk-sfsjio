@@ -15153,6 +15153,21 @@
           "date": 1792415868,
           "commit-sha": "6a07e1e79b910c537b5b5c67b17043f9d8c5efe9"
         }
+      },
+      {
+        "name": "Arc Warden Chicken Gun",
+        "preview": "Arc Warden Chicken Gun.webp",
+        "file": "Arc Warden Chicken Gun.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Mirik522"
+          }
+        ],
+        "meta": {
+          "date": 1792421381,
+          "commit-sha": "511426cde60628d04c1ee1aabb05476be8557405"
+        }
       }
     ],
     "shaders": [
