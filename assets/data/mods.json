@@ -15074,6 +15074,25 @@
           "date": 1792286060,
           "commit-sha": "0689d9468fba3a00bc1c06025562bd5efd9dea23"
         }
+      },
+      {
+        "name": "Bloodseeker Made In Heaven",
+        "preview": "Bloodseeker Made In Heaven.webp",
+        "file": "Bloodseeker Made In Heaven.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Mirik522"
+          }
+        ],
+        "meta": {
+          "date": 1792330154,
+          "commit-sha": "c44599205b70fe44b5f70cf268b825a2d584ccb2"
+        }
       }
     ],
     "shaders": [
