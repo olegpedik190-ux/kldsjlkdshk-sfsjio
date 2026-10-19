@@ -14964,6 +14964,25 @@
           "date": 1792151800,
           "commit-sha": "4ee1cd716642148f38e0c2144e781659441e3ed2"
         }
+      },
+      {
+        "name": "Kruc Fungi Imp Shadow Demon",
+        "preview": "Kruc Fungi Imp Shadow Demon.webp",
+        "file": "Kruc Fungi Imp Shadow Demon.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1792163562,
+          "commit-sha": "30eb722c703702846f6c1b0556864a46bd14f2ec"
+        }
       }
     ],
     "shaders": [
