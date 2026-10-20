@@ -23220,6 +23220,21 @@
           "date": 1792330154,
           "commit-sha": "c44599205b70fe44b5f70cf268b825a2d584ccb2"
         }
+      },
+      {
+        "name": "Last Match Vidget",
+        "preview": "Last Match Vidget.webp",
+        "file": "Last Match Vidget.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Swin-РукаBlood"
+          }
+        ],
+        "meta": {
+          "date": 1792518355,
+          "commit-sha": "1b1ed8978da06451e53dc2932d313999abbe30b1"
+        }
       }
     ],
     "tools": [
