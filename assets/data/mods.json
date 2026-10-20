@@ -21862,6 +21862,21 @@
           "date": 1792050673,
           "commit-sha": "af6577c93ace5de2622bd6062a980d396834de52"
         }
+      },
+      {
+        "name": "White Spell Radius",
+        "preview": "White Spell Radius.webp",
+        "file": "White Spell Radius.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "YZT"
+          }
+        ],
+        "meta": {
+          "date": 1792518355,
+          "commit-sha": "1b1ed8978da06451e53dc2932d313999abbe30b1"
+        }
       }
     ],
     "river": [
