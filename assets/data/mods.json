@@ -21196,6 +21196,21 @@
           "date": 1792518355,
           "commit-sha": "1b1ed8978da06451e53dc2932d313999abbe30b1"
         }
+      },
+      {
+        "name": "Doom Widged 0.1",
+        "preview": "Doom Widged 0.1.webp",
+        "file": "Doom Widged 0.1.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Swin-РукаBlood"
+          }
+        ],
+        "meta": {
+          "date": 1792518355,
+          "commit-sha": "1b1ed8978da06451e53dc2932d313999abbe30b1"
+        }
       }
     ],
     "huds": [
