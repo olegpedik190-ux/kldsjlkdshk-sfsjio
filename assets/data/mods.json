@@ -16902,6 +16902,24 @@
                 "date": 1792264217,
                 "commit-sha": "fa3bc4108919bec34831dcddaff2016d4120b62d"
               }
+            },
+            {
+              "name": "Necrophos Irkutsk Chuma",
+              "preview": "Necrophos Irkutsk Chuma.webp",
+              "file": "Necrophos Irkutsk Chuma.zip",
+              "tags": {
+                "weapon": true
+              },
+              "links": [
+                {
+                  "type": "author",
+                  "url": "Mirik522"
+                }
+              ],
+              "meta": {
+                "date": 1792518355,
+                "commit-sha": "1b1ed8978da06451e53dc2932d313999abbe30b1"
+              }
             }
           ]
         },
