@@ -16679,6 +16679,21 @@
           "date": 1788762686,
           "commit-sha": "6be88723191ff1370246dbc20a939a1e97985aa4"
         }
+      },
+      {
+        "name": "Money Tree",
+        "preview": "Money Tree.webp",
+        "file": "Money Tree.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "3atvorn1k"
+          }
+        ],
+        "meta": {
+          "date": 1792518355,
+          "commit-sha": "1b1ed8978da06451e53dc2932d313999abbe30b1"
+        }
       }
     ],
     "hero-items": {
