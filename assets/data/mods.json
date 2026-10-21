@@ -27171,6 +27171,25 @@
           "date": 1792591892,
           "commit-sha": "20e3d803ba96c4197ac029e13a6b5179df422c2e"
         }
+      },
+      {
+        "name": "Tcoaal Blink Dagger",
+        "preview": "Tcoaal Blink Dagger.webp",
+        "file": "Tcoaal Blink Dagger.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/4Tk_NsbH7r8"
+          }
+        ],
+        "meta": {
+          "date": 1792591892,
+          "commit-sha": "20e3d803ba96c4197ac029e13a6b5179df422c2e"
+        }
       }
     ],
     "packs": [
