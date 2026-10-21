@@ -26753,6 +26753,25 @@
           "date": 1792412054,
           "commit-sha": "506a00fec3b0ed9867c85b91783db85bb8237447"
         }
+      },
+      {
+        "name": "Ringmaster Monokoleso",
+        "preview": "Ringmaster Monokoleso.webp",
+        "file": "Ringmaster Monokoleso.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "xvii"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/wwV_ZGanLHw"
+          }
+        ],
+        "meta": {
+          "date": 1792587555,
+          "commit-sha": "52c8842828b49d5d5f5cf73c4bb4ee35650dcfe9"
+        }
       }
     ],
     "sounds": [
