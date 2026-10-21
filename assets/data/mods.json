@@ -23348,6 +23348,24 @@
           "date": 1792518355,
           "commit-sha": "1b1ed8978da06451e53dc2932d313999abbe30b1"
         }
+      },
+      {
+        "name": "Ptu Suzuya Juzo",
+        "preview": "Ptu Suzuya Juzo.webp",
+        "file": "Ptu Suzuya Juzo.zip",
+        "tags": {
+          "image": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Swin-РукаBlood"
+          }
+        ],
+        "meta": {
+          "date": 1792583758,
+          "commit-sha": "b6bedf2273599898a5b184f671912e39d71d992a"
+        }
       }
     ],
     "tools": [
