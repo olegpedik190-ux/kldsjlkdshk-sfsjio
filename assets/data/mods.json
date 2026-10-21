@@ -15187,6 +15187,25 @@
           "date": 1792453496,
           "commit-sha": "23a432b89c7afd13a1f191aede0cf52df1856884"
         }
+      },
+      {
+        "name": "Invoker Dark Apex",
+        "preview": "Invoker Dark Apex.webp",
+        "file": "Invoker Dark Apex.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1792583758,
+          "commit-sha": "b6bedf2273599898a5b184f671912e39d71d992a"
+        }
       }
     ],
     "shaders": [
