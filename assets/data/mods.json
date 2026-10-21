@@ -21294,6 +21294,21 @@
           "date": 1792583758,
           "commit-sha": "b6bedf2273599898a5b184f671912e39d71d992a"
         }
+      },
+      {
+        "name": "Play Red",
+        "preview": "Play Red.webp",
+        "file": "Play Red.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792591892,
+          "commit-sha": "20e3d803ba96c4197ac029e13a6b5179df422c2e"
+        }
       }
     ],
     "huds": [
