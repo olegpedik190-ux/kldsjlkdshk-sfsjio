@@ -22555,6 +22555,21 @@
           "date": 1762709998,
           "commit-sha": "07277988576642ac94111d5f394dd10ffae9939c"
         }
+      },
+      {
+        "name": "Purple Electric River",
+        "preview": "Purple Electric River.webp",
+        "file": "Purple Electric River.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "hrdq"
+          }
+        ],
+        "meta": {
+          "date": 1792685250,
+          "commit-sha": "4936fb4a1334c1a889fe880aa0e0c342b96ec32a"
+        }
       }
     ],
     "backgrounds": [
