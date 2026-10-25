@@ -15383,6 +15383,21 @@
           "date": 1792860890,
           "commit-sha": "1d674f50ae26267f9dc9889b1dad4c7eb19dfe38"
         }
+      },
+      {
+        "name": "Invoker Lelouch",
+        "preview": "Invoker Lelouch.webp",
+        "file": "Invoker Lelouch.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Anonymous"
+          }
+        ],
+        "meta": {
+          "date": 1792894433,
+          "commit-sha": "cb6312949649d70f5216d6cda7ac400c229ed4c3"
+        }
       }
     ],
     "shaders": [
