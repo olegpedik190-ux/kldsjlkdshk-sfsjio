@@ -25595,6 +25595,21 @@
           "date": 1792609094,
           "commit-sha": "5971b5e82af7411a0da9b8499ed63a32b33b4163"
         }
+      },
+      {
+        "name": "Dark Carnival",
+        "preview": "Dark Carnival.webp",
+        "file": "Dark Carnival.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "hrdq"
+          }
+        ],
+        "meta": {
+          "date": 1792778089,
+          "commit-sha": "161f2bbab43a444babbdadf689a273980b709bfc"
+        }
       }
     ],
     "cursors": [
