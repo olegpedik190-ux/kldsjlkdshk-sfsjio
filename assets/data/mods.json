@@ -15330,6 +15330,25 @@
           "date": 1792668576,
           "commit-sha": "5425504508f37447af66f8b332ac19ff3c41f058"
         }
+      },
+      {
+        "name": "Abaddon Calavera",
+        "preview": "Abaddon Calavera.webp",
+        "file": "Abaddon Calavera.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "твавт"
+          }
+        ],
+        "meta": {
+          "date": 1792860890,
+          "commit-sha": "1d674f50ae26267f9dc9889b1dad4c7eb19dfe38"
+        }
       }
     ],
     "shaders": [
