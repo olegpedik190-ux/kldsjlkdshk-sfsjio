@@ -21550,6 +21550,21 @@
           "date": 1792668576,
           "commit-sha": "5425504508f37447af66f8b332ac19ff3c41f058"
         }
+      },
+      {
+        "name": "Hetgraph Black",
+        "preview": "Hetgraph Black.webp",
+        "file": "Hetgraph Black.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792668576,
+          "commit-sha": "5425504508f37447af66f8b332ac19ff3c41f058"
+        }
       }
     ],
     "huds": [
