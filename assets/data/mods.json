@@ -21616,6 +21616,25 @@
           "date": 1792782705,
           "commit-sha": "81d495393936fc3ffb006fae81b9e9aef6349ccf"
         }
+      },
+      {
+        "name": "Kda Red",
+        "preview": "Kda Red.webp",
+        "file": "Kda Red.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          },
+          {
+            "type": "author",
+            "url": "fujitaki"
+          }
+        ],
+        "meta": {
+          "date": 1792894433,
+          "commit-sha": "cb6312949649d70f5216d6cda7ac400c229ed4c3"
+        }
       }
     ],
     "huds": [
