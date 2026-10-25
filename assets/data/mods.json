@@ -15312,6 +15312,24 @@
           "date": 1792668576,
           "commit-sha": "5425504508f37447af66f8b332ac19ff3c41f058"
         }
+      },
+      {
+        "name": "Keeper Of The Light Ded Na Fernando",
+        "preview": "Keeper Of The Light Ded Na Fernando.webp",
+        "file": "Keeper Of The Light Ded Na Fernando.zip",
+        "tags": {
+          "effects": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Mirik522"
+          }
+        ],
+        "meta": {
+          "date": 1792668576,
+          "commit-sha": "5425504508f37447af66f8b332ac19ff3c41f058"
+        }
       }
     ],
     "shaders": [
