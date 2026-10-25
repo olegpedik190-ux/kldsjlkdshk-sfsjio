@@ -22570,6 +22570,21 @@
           "date": 1792685250,
           "commit-sha": "4936fb4a1334c1a889fe880aa0e0c342b96ec32a"
         }
+      },
+      {
+        "name": "Acid Electric River",
+        "preview": "Acid Electric River.webp",
+        "file": "Acid Electric River.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "hrdq"
+          }
+        ],
+        "meta": {
+          "date": 1792685250,
+          "commit-sha": "4936fb4a1334c1a889fe880aa0e0c342b96ec32a"
+        }
       }
     ],
     "backgrounds": [
