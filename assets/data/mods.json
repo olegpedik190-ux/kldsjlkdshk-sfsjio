@@ -23830,6 +23830,24 @@
           "date": 1792591892,
           "commit-sha": "20e3d803ba96c4197ac029e13a6b5179df422c2e"
         }
+      },
+      {
+        "name": "Jenna Wallpaper",
+        "preview": "Jenna Wallpaper.webp",
+        "file": "Jenna Wallpaper.zip",
+        "tags": {
+          "image": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "ittem"
+          }
+        ],
+        "meta": {
+          "date": 1792609094,
+          "commit-sha": "5971b5e82af7411a0da9b8499ed63a32b33b4163"
+        }
       }
     ],
     "tools": [
