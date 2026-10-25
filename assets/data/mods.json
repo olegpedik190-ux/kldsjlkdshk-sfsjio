@@ -27552,6 +27552,21 @@
           "date": 1792868093,
           "commit-sha": "e61dfbed529f5692f0701ed3dcbbed049175d9e2"
         }
+      },
+      {
+        "name": "Mortal Strike Nyaaa!!! Sound",
+        "preview": "Mortal Strike Nyaaa!!! Sound.webp",
+        "file": "Mortal Strike Nyaaa!!! Sound.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "keeper"
+          }
+        ],
+        "meta": {
+          "date": 1792894433,
+          "commit-sha": "cb6312949649d70f5216d6cda7ac400c229ed4c3"
+        }
       }
     ],
     "sounds": [
