@@ -15349,6 +15349,21 @@
           "date": 1792860890,
           "commit-sha": "1d674f50ae26267f9dc9889b1dad4c7eb19dfe38"
         }
+      },
+      {
+        "name": "Anti-Mage Persona Sakuramix",
+        "preview": "Anti-Mage Persona Sakuramix.webp",
+        "file": "Anti-Mage Persona Sakuramix.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "твавт"
+          }
+        ],
+        "meta": {
+          "date": 1792860890,
+          "commit-sha": "1d674f50ae26267f9dc9889b1dad4c7eb19dfe38"
+        }
       }
     ],
     "shaders": [
