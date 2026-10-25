@@ -22074,6 +22074,25 @@
           "date": 1792591892,
           "commit-sha": "20e3d803ba96c4197ac029e13a6b5179df422c2e"
         }
+      },
+      {
+        "name": "High Five Cat Paw",
+        "preview": "High Five Cat Paw.webp",
+        "file": "High Five Cat Paw.zip",
+        "links": [
+          {
+            "type": "preview",
+            "url": "assets/previews/high-five/High Five Cat Paw.mp4"
+          },
+          {
+            "type": "author",
+            "url": "4d4mf"
+          }
+        ],
+        "meta": {
+          "date": 1792860890,
+          "commit-sha": "1d674f50ae26267f9dc9889b1dad4c7eb19dfe38"
+        }
       }
     ],
     "other": [
