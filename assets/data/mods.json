@@ -27480,6 +27480,21 @@
           "date": 1792685250,
           "commit-sha": "4936fb4a1334c1a889fe880aa0e0c342b96ec32a"
         }
+      },
+      {
+        "name": "Magnus Collapse Rp",
+        "preview": "Magnus Collapse Rp.webp",
+        "file": "Magnus Collapse Rp.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Danulaguts"
+          }
+        ],
+        "meta": {
+          "date": 1792764215,
+          "commit-sha": "03a0e2ad5e216fb920d92f5e38c6cf48677d6047"
+        }
       }
     ],
     "sounds": [
