@@ -27495,6 +27495,25 @@
           "date": 1792764215,
           "commit-sha": "03a0e2ad5e216fb920d92f5e38c6cf48677d6047"
         }
+      },
+      {
+        "name": "Shadow Fiend Ult Xvii",
+        "preview": "Shadow Fiend Ult Xvii.webp",
+        "file": "Shadow Fiend Ult Xvii.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "xvii"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/2ism8l-pLME"
+          }
+        ],
+        "meta": {
+          "date": 1792764215,
+          "commit-sha": "03a0e2ad5e216fb920d92f5e38c6cf48677d6047"
+        }
       }
     ],
     "sounds": [
