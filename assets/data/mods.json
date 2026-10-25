@@ -24223,6 +24223,21 @@
           "date": 1773596942,
           "commit-sha": "658cbd4682de3e590894dc622a6cc90f49224de5"
         }
+      },
+      {
+        "name": "No Unnecessary Map Effects",
+        "preview": "No Unnecessary Map Effects.webp",
+        "file": "No Unnecessary Map Effects.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "depex"
+          }
+        ],
+        "meta": {
+          "date": 1792764215,
+          "commit-sha": "03a0e2ad5e216fb920d92f5e38c6cf48677d6047"
+        }
       }
     ],
     "sites": [
