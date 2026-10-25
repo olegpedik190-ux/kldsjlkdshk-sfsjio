@@ -22020,6 +22020,25 @@
           "date": 1792095190,
           "commit-sha": "7e2ea116d4b1c3f5383f2e848d4b27a05aaa753c"
         }
+      },
+      {
+        "name": "Gotick Full Black Hud",
+        "preview": "Gotick Full Black Hud.webp",
+        "file": "Gotick Full Black Hud.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/r3YB89wMd6c?si=0G-J393gx8tuyA0b"
+          }
+        ],
+        "meta": {
+          "date": 1792860890,
+          "commit-sha": "1d674f50ae26267f9dc9889b1dad4c7eb19dfe38"
+        }
       }
     ],
     "high-five": [
