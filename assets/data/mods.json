@@ -28431,6 +28431,21 @@
                 "date": 1756459282,
                 "commit-sha": "cfa3191eab1bd9143d84e6158832713ed0e84572"
               }
+            },
+            {
+              "name": "Pink Meteor Hammer",
+              "preview": "Pink Meteor Hammer.webp",
+              "file": "Pink Meteor Hammer.zip",
+              "links": [
+                {
+                  "type": "author",
+                  "url": "4d4mf"
+                }
+              ],
+              "meta": {
+                "date": 1792718488,
+                "commit-sha": "0e1ffbb02f0edfa0642181b7c6d49b99b7b14375"
+              }
             }
           ]
         },
