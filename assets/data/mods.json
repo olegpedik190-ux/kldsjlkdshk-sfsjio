@@ -15293,6 +15293,25 @@
           "date": 1792609094,
           "commit-sha": "5971b5e82af7411a0da9b8499ed63a32b33b4163"
         }
+      },
+      {
+        "name": "Witch Doctor Awaleb",
+        "preview": "Witch Doctor Awaleb.webp",
+        "file": "Witch Doctor Awaleb.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1792668576,
+          "commit-sha": "5425504508f37447af66f8b332ac19ff3c41f058"
+        }
       }
     ],
     "shaders": [
