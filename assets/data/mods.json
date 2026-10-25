@@ -27533,6 +27533,25 @@
           "date": 1792795312,
           "commit-sha": "c531f2ef249891761a95c4d0837dcbfa72bbc6e4"
         }
+      },
+      {
+        "name": "Wraith King I Live Forever",
+        "preview": "Wraith King I Live Forever.webp",
+        "file": "Wraith King I Live Forever.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/2PJFklhuFxg"
+          }
+        ],
+        "meta": {
+          "date": 1792868093,
+          "commit-sha": "e61dfbed529f5692f0701ed3dcbbed049175d9e2"
+        }
       }
     ],
     "sounds": [
