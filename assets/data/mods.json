@@ -16120,6 +16120,21 @@
                 "date": 1792015098,
                 "commit-sha": "e41ec27b6f5d6130f050cc65bfd814160ddbf49e"
               }
+            },
+            {
+              "name": "Bear Deny",
+              "preview": "Bear Deny.webp",
+              "file": "Bear Deny.zip",
+              "links": [
+                {
+                  "type": "author",
+                  "url": "hrdq"
+                }
+              ],
+              "meta": {
+                "date": 1792685250,
+                "commit-sha": "4936fb4a1334c1a889fe880aa0e0c342b96ec32a"
+              }
             }
           ]
         },
