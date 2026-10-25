@@ -27514,6 +27514,25 @@
           "date": 1792764215,
           "commit-sha": "03a0e2ad5e216fb920d92f5e38c6cf48677d6047"
         }
+      },
+      {
+        "name": "Shadow Fiend Taunt Xvii",
+        "preview": "Shadow Fiend Taunt Xvii.webp",
+        "file": "Shadow Fiend Taunt Xvii.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "xvii"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/vLPXcqgYOQE"
+          }
+        ],
+        "meta": {
+          "date": 1792795312,
+          "commit-sha": "c531f2ef249891761a95c4d0837dcbfa72bbc6e4"
+        }
       }
     ],
     "sounds": [
