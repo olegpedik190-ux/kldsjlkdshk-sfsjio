@@ -21535,6 +21535,21 @@
           "date": 1792591892,
           "commit-sha": "20e3d803ba96c4197ac029e13a6b5179df422c2e"
         }
+      },
+      {
+        "name": "Kda Black",
+        "preview": "Kda Black.webp",
+        "file": "Kda Black.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792668576,
+          "commit-sha": "5425504508f37447af66f8b332ac19ff3c41f058"
+        }
       }
     ],
     "huds": [
