@@ -21580,6 +21580,21 @@
           "date": 1792712707,
           "commit-sha": "3903265a07cdda9d28f025e9099bb5760d25d1cc"
         }
+      },
+      {
+        "name": "Xvii Search Bar",
+        "preview": "Xvii Search Bar.webp",
+        "file": "Xvii Search Bar.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "xvii"
+          }
+        ],
+        "meta": {
+          "date": 1792764215,
+          "commit-sha": "03a0e2ad5e216fb920d92f5e38c6cf48677d6047"
+        }
       }
     ],
     "huds": [
