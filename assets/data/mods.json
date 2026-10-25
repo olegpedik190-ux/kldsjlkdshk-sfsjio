@@ -21595,6 +21595,27 @@
           "date": 1792764215,
           "commit-sha": "03a0e2ad5e216fb920d92f5e38c6cf48677d6047"
         }
+      },
+      {
+        "name": "TikTok Overlay",
+        "preview": "TikTok Overlay.webp",
+        "file": "TikTok Overlay.zip",
+        "guideId": "overlay",
+        "guideType": "not-safe",
+        "links": [
+          {
+            "type": "source-code",
+            "url": "https://github.com/BasteArima/dota2-tiktok-overlay"
+          },
+          {
+            "type": "author",
+            "url": "Baste"
+          }
+        ],
+        "meta": {
+          "date": 1792782705,
+          "commit-sha": "81d495393936fc3ffb006fae81b9e9aef6349ccf"
+        }
       }
     ],
     "huds": [
