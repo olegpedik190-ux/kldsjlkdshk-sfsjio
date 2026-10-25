@@ -23920,6 +23920,24 @@
           "date": 1792795312,
           "commit-sha": "c531f2ef249891761a95c4d0837dcbfa72bbc6e4"
         }
+      },
+      {
+        "name": "City Ruins",
+        "preview": "City Ruins.webp",
+        "file": "City Ruins.zip",
+        "tags": {
+          "video": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Swin-РукаBlood"
+          }
+        ],
+        "meta": {
+          "date": 1792795312,
+          "commit-sha": "c531f2ef249891761a95c4d0837dcbfa72bbc6e4"
+        }
       }
     ],
     "tools": [
