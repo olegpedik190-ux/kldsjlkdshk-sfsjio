@@ -15450,6 +15450,25 @@
           "date": 1792965567,
           "commit-sha": "f89a395affd4f2c63fe7e575237c492b3c2dcd15"
         }
+      },
+      {
+        "name": "Axe Immortal Demon",
+        "preview": "Axe Immortal Demon.webp",
+        "file": "Axe Immortal Demon.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "твавт"
+          }
+        ],
+        "meta": {
+          "date": 1792965567,
+          "commit-sha": "f89a395affd4f2c63fe7e575237c492b3c2dcd15"
+        }
       }
     ],
     "shaders": [
