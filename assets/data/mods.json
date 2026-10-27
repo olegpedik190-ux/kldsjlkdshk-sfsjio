@@ -15503,6 +15503,21 @@
           "date": 1792993494,
           "commit-sha": "605e4192cb6ee53d9d62c3a9bc510f4757e7b35b"
         }
+      },
+      {
+        "name": "Troll Warlord Steel Warrior",
+        "preview": "Troll Warlord Steel Warrior.webp",
+        "file": "Troll Warlord Steel Warrior.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1792993494,
+          "commit-sha": "605e4192cb6ee53d9d62c3a9bc510f4757e7b35b"
+        }
       }
     ],
     "shaders": [
