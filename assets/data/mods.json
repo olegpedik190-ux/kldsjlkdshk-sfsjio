@@ -17300,6 +17300,24 @@
                 "date": 1792712707,
                 "commit-sha": "3903265a07cdda9d28f025e9099bb5760d25d1cc"
               }
+            },
+            {
+              "name": "Invoker Infernus Forge",
+              "preview": "Invoker Infernus Forge.webp",
+              "file": "Invoker Infernus Forge.zip",
+              "tags": {
+                "forge": true
+              },
+              "links": [
+                {
+                  "type": "author",
+                  "url": "4d4mf"
+                }
+              ],
+              "meta": {
+                "date": 1792947904,
+                "commit-sha": "6eb0c7c6706fe9251cf51e53a466b82a5897ebd8"
+              }
             }
           ]
         },
