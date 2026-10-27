@@ -27821,6 +27821,25 @@
           "date": 1792894433,
           "commit-sha": "cb6312949649d70f5216d6cda7ac400c229ed4c3"
         }
+      },
+      {
+        "name": "Keeper Of The Light Kotl Taunt Xvi",
+        "preview": "Keeper Of The Light Kotl Taunt Xvi.webp",
+        "file": "Keeper Of The Light Kotl Taunt Xvi.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "xvii"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/_Wah4RdQMXs"
+          }
+        ],
+        "meta": {
+          "date": 1793062291,
+          "commit-sha": "4f388a72e7380a105f41d588fad404c8bdd0e513"
+        }
       }
     ],
     "sounds": [
