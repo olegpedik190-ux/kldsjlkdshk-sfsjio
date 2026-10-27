@@ -21855,6 +21855,25 @@
           "date": 1792946553,
           "commit-sha": "fa012fb8564c5bd3fb22d8057822fb23533bfb65"
         }
+      },
+      {
+        "name": "Netgraph Red",
+        "preview": "Netgraph Red.webp",
+        "file": "Netgraph Red.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          },
+          {
+            "type": "author",
+            "url": "fujitaki"
+          }
+        ],
+        "meta": {
+          "date": 1792946553,
+          "commit-sha": "fa012fb8564c5bd3fb22d8057822fb23533bfb65"
+        }
       }
     ],
     "huds": [
