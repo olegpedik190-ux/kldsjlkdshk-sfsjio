@@ -20853,6 +20853,21 @@
           "date": 1792718488,
           "commit-sha": "0e1ffbb02f0edfa0642181b7c6d49b99b7b14375"
         }
+      },
+      {
+        "name": "Break The Drum Mega Kill",
+        "preview": "Break The Drum Mega Kill.webp",
+        "file": "Break The Drum Mega Kill.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1793062291,
+          "commit-sha": "4f388a72e7380a105f41d588fad404c8bdd0e513"
+        }
       }
     ],
     "announcers": [
