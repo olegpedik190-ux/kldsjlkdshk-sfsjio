@@ -17318,6 +17318,24 @@
                 "date": 1792947904,
                 "commit-sha": "6eb0c7c6706fe9251cf51e53a466b82a5897ebd8"
               }
+            },
+            {
+              "name": "Kotl Obeisance Of The Keeper",
+              "preview": "Kotl Obeisance Of The Keeper.webp",
+              "file": "Kotl Obeisance Of The Keeper.zip",
+              "tags": {
+                "base": true
+              },
+              "links": [
+                {
+                  "type": "author",
+                  "url": "keeper"
+                }
+              ],
+              "meta": {
+                "date": 1793062291,
+                "commit-sha": "4f388a72e7380a105f41d588fad404c8bdd0e513"
+              }
             }
           ]
         },
