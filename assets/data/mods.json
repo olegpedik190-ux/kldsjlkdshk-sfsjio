@@ -15533,6 +15533,21 @@
           "date": 1793075978,
           "commit-sha": "644cd4265b838877af16095597c98f6f23256690"
         }
+      },
+      {
+        "name": "Arc Warden Verity Warden",
+        "preview": "Arc Warden Verity Warden.webp",
+        "file": "Arc Warden Verity Warden.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Mirik522"
+          }
+        ],
+        "meta": {
+          "date": 1793129686,
+          "commit-sha": "9233af8dcc48725bf6da8b8dfcc456ec26fb84a2"
+        }
       }
     ],
     "shaders": [
