@@ -15596,6 +15596,21 @@
           "date": 1793227820,
           "commit-sha": "62b8507f726a7e6f726d1bafd373a03ca4d13290"
         }
+      },
+      {
+        "name": "Broodmother Venomancer",
+        "preview": "Broodmother Venomancer.webp",
+        "file": "Broodmother Venomancer.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Harlord"
+          }
+        ],
+        "meta": {
+          "date": 1793227820,
+          "commit-sha": "62b8507f726a7e6f726d1bafd373a03ca4d13290"
+        }
       }
     ],
     "shaders": [
