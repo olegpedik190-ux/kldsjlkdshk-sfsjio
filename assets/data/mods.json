@@ -15626,6 +15626,21 @@
           "date": 1793264883,
           "commit-sha": "b93e9198757777f0aeec144c00a87cb082d58a66"
         }
+      },
+      {
+        "name": "Meepo Jungle Babysitter",
+        "preview": "Meepo Jungle Babysitter.webp",
+        "file": "Meepo Jungle Babysitter.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Harlord"
+          }
+        ],
+        "meta": {
+          "date": 1793264883,
+          "commit-sha": "b93e9198757777f0aeec144c00a87cb082d58a66"
+        }
       }
     ],
     "shaders": [
