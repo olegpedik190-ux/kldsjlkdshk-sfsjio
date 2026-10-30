@@ -22693,6 +22693,25 @@
           "date": 1792860890,
           "commit-sha": "1d674f50ae26267f9dc9889b1dad4c7eb19dfe38"
         }
+      },
+      {
+        "name": "Lain Hud",
+        "preview": "Lain Hud.webp",
+        "file": "Lain Hud.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/ToMoG3eVCw4"
+          }
+        ],
+        "meta": {
+          "date": 1793178545,
+          "commit-sha": "6b57bfcd6931f586f2ed99b4c148d6ff848716bd"
+        }
       }
     ],
     "high-five": [
