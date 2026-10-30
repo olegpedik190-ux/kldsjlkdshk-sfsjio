@@ -15675,6 +15675,25 @@
           "date": 1793329448,
           "commit-sha": "97d506e71e3b8caffa716dcd2018b0dd99e64c66"
         }
+      },
+      {
+        "name": "Pudge Waitureally",
+        "preview": "Pudge Waitureally.webp",
+        "file": "Pudge Waitureally.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1793361682,
+          "commit-sha": "8548f37c03bb9b395c48bbda52c89c7df0413dfc"
+        }
       }
     ],
     "shaders": [
