@@ -28889,6 +28889,25 @@
           "date": 1792591892,
           "commit-sha": "20e3d803ba96c4197ac029e13a6b5179df422c2e"
         }
+      },
+      {
+        "name": "Tcoaal Dagon",
+        "preview": "Tcoaal Dagon.webp",
+        "file": "Tcoaal Dagon.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/gt7-MA4zcww"
+          }
+        ],
+        "meta": {
+          "date": 1793139107,
+          "commit-sha": "6345d8de44dff4e7ba6bb50cf467887b7d7186eb"
+        }
       }
     ],
     "packs": [
