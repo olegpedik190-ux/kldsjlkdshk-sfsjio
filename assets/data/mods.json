@@ -29422,6 +29422,21 @@
                 "date": 1792947904,
                 "commit-sha": "6eb0c7c6706fe9251cf51e53a466b82a5897ebd8"
               }
+            },
+            {
+              "name": "Hex Is Fucking Sick",
+              "preview": "Hex Is Fucking Sick.webp",
+              "file": "Hex Is Fucking Sick.zip",
+              "links": [
+                {
+                  "type": "author",
+                  "url": "hrdq"
+                }
+              ],
+              "meta": {
+                "date": 1793361682,
+                "commit-sha": "8548f37c03bb9b395c48bbda52c89c7df0413dfc"
+              }
             }
           ]
         },
