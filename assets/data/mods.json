@@ -22117,6 +22117,21 @@
           "date": 1792330154,
           "commit-sha": "c44599205b70fe44b5f70cf268b825a2d584ccb2"
         }
+      },
+      {
+        "name": "Red Top Bar",
+        "preview": "Red Topbar.webp",
+        "file": "Red Topbar.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1792583758,
+          "commit-sha": "b6bedf2273599898a5b184f671912e39d71d992a"
+        }
       }
     ],
     "huds": [
