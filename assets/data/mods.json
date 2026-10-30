@@ -22288,6 +22288,26 @@
           "date": 1793178545,
           "commit-sha": "6b57bfcd6931f586f2ed99b4c148d6ff848716bd"
         }
+      },
+      {
+        "name": "Hero Auto Pick",
+        "preview": "Hero Auto Pick.webp",
+        "file": "Hero Auto Pick.zip",
+        "guideId": "autopick",
+        "guideType": "not-safe",
+        "tags": {
+          "css": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "hrdq"
+          }
+        ],
+        "meta": {
+          "date": 1793169329,
+          "commit-sha": "858c5c019998b6fff8724c3f7f91be4080ac845e"
+        }
       }
     ],
     "huds": [
