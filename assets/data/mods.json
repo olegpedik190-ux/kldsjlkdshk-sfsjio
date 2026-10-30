@@ -24995,6 +24995,21 @@
           "date": 1792764215,
           "commit-sha": "03a0e2ad5e216fb920d92f5e38c6cf48677d6047"
         }
+      },
+      {
+        "name": "No Unnecessary Models",
+        "preview": "No Unnecessary Models.webp",
+        "file": "No Unnecessary Models.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "depex"
+          }
+        ],
+        "meta": {
+          "date": 1793272140,
+          "commit-sha": "0470a2b4d5a345babffbf7234e444137cded4804"
+        }
       }
     ],
     "sites": [
