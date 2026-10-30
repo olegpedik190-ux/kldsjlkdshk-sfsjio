@@ -28923,6 +28923,29 @@
           "date": 1793329448,
           "commit-sha": "97d506e71e3b8caffa716dcd2018b0dd99e64c66"
         }
+      },
+      {
+        "name": "Scarry Respawn Bayback",
+        "preview": "Scarry Respawn Bayback.webp",
+        "file": "Scarry Respawn Bayback.zip",
+        "links": [
+          {
+            "type": "modded",
+            "url": "tapich"
+          },
+          {
+            "type": "author",
+            "url": "waitureally"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtube.com/shorts/4NRt5U3aG8A"
+          }
+        ],
+        "meta": {
+          "date": 1793329448,
+          "commit-sha": "97d506e71e3b8caffa716dcd2018b0dd99e64c66"
+        }
       }
     ],
     "packs": [
