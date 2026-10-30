@@ -15656,6 +15656,25 @@
           "date": 1793264883,
           "commit-sha": "b93e9198757777f0aeec144c00a87cb082d58a66"
         }
+      },
+      {
+        "name": "Kaneki Shadow Fiend",
+        "preview": "Kaneki Shadow Fiend.webp",
+        "file": "Kaneki Shadow Fiend.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "qizlik"
+          }
+        ],
+        "meta": {
+          "date": 1793329448,
+          "commit-sha": "97d506e71e3b8caffa716dcd2018b0dd99e64c66"
+        }
       }
     ],
     "shaders": [
