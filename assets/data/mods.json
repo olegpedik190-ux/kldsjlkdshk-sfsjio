@@ -22132,6 +22132,21 @@
           "date": 1792583758,
           "commit-sha": "b6bedf2273599898a5b184f671912e39d71d992a"
         }
+      },
+      {
+        "name": "Light Blue Top Bar",
+        "preview": "Light Blue Top Bar.webp",
+        "file": "Light Blue Top Bar.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1793139107,
+          "commit-sha": "6345d8de44dff4e7ba6bb50cf467887b7d7186eb"
+        }
       }
     ],
     "huds": [
