@@ -15751,6 +15751,24 @@
           "date": 1793426257,
           "commit-sha": "40c72c85ee9deb65aa2c84730a5ee1567e5804a3"
         }
+      },
+      {
+        "name": "Shadow Fiend Red Ruby",
+        "preview": "Shadow Fiend Red Ruby.webp",
+        "file": "Shadow Fiend Red Ruby.zip",
+        "tags": {
+          "effects": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Mirik522"
+          }
+        ],
+        "meta": {
+          "date": 1793451373,
+          "commit-sha": "a14fa485bf83f4a3bf17640ae3c189771b1ba3ba"
+        }
       }
     ],
     "shaders": [
