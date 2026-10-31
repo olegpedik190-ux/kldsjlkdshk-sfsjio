@@ -15732,6 +15732,25 @@
           "date": 1793426257,
           "commit-sha": "40c72c85ee9deb65aa2c84730a5ee1567e5804a3"
         }
+      },
+      {
+        "name": "Ruby Hoodwink",
+        "preview": "Ruby Hoodwink.webp",
+        "file": "Ruby Hoodwink.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Alowyy1"
+          }
+        ],
+        "meta": {
+          "date": 1793426257,
+          "commit-sha": "40c72c85ee9deb65aa2c84730a5ee1567e5804a3"
+        }
       }
     ],
     "shaders": [
