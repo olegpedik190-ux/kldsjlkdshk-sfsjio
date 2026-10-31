@@ -29093,6 +29093,21 @@
           "date": 1793329448,
           "commit-sha": "97d506e71e3b8caffa716dcd2018b0dd99e64c66"
         }
+      },
+      {
+        "name": "Hikikomori Startup",
+        "preview": "Hikikomori Startup.webp",
+        "file": "Hikikomori Startup.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "hrdq"
+          }
+        ],
+        "meta": {
+          "date": 1793451373,
+          "commit-sha": "a14fa485bf83f4a3bf17640ae3c189771b1ba3ba"
+        }
       }
     ],
     "packs": [
