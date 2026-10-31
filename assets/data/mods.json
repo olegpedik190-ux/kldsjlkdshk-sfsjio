@@ -15713,6 +15713,25 @@
           "date": 1793426257,
           "commit-sha": "40c72c85ee9deb65aa2c84730a5ee1567e5804a3"
         }
+      },
+      {
+        "name": "Visage Bloodking",
+        "preview": "Visage Bloodking.webp",
+        "file": "Visage Bloodking.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "qizlik"
+          }
+        ],
+        "meta": {
+          "date": 1793426257,
+          "commit-sha": "40c72c85ee9deb65aa2c84730a5ee1567e5804a3"
+        }
       }
     ],
     "shaders": [
