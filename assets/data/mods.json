@@ -21171,6 +21171,25 @@
           "date": 1793329448,
           "commit-sha": "97d506e71e3b8caffa716dcd2018b0dd99e64c66"
         }
+      },
+      {
+        "name": "Waitureally Mega-Kill",
+        "preview": "Waitureally Mega-Kill.webp",
+        "file": "Waitureally Mega-Kill.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "waitureally"
+          },
+          {
+            "type": "preview",
+            "url": "https://t.me/waitureally/3522"
+          }
+        ],
+        "meta": {
+          "date": 1793424595,
+          "commit-sha": "271d3c035dc5684f9ec6a8071e4a812b08e2ba16"
+        }
       }
     ],
     "announcers": [
