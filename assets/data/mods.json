@@ -28580,6 +28580,25 @@
           "date": 1793329448,
           "commit-sha": "97d506e71e3b8caffa716dcd2018b0dd99e64c66"
         }
+      },
+      {
+        "name": "Anti Mage Taunt Tt",
+        "preview": "Anti Mage Taunt Tt.webp",
+        "file": "Anti Mage Taunt Tt.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "xvii"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/zHDcSMUDxHI"
+          }
+        ],
+        "meta": {
+          "date": 1793426257,
+          "commit-sha": "40c72c85ee9deb65aa2c84730a5ee1567e5804a3"
+        }
       }
     ],
     "sounds": [
