@@ -28599,6 +28599,25 @@
           "date": 1793426257,
           "commit-sha": "40c72c85ee9deb65aa2c84730a5ee1567e5804a3"
         }
+      },
+      {
+        "name": "Arc Warden Destruction Sounds",
+        "preview": "Arc Warden Destruction Sounds.webp",
+        "file": "Arc Warden Destruction Sounds.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Swin-РукаBlood"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/HDxo2JfNXQo"
+          }
+        ],
+        "meta": {
+          "date": 1793451373,
+          "commit-sha": "a14fa485bf83f4a3bf17640ae3c189771b1ba3ba"
+        }
       }
     ],
     "sounds": [
