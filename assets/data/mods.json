@@ -16083,6 +16083,21 @@
           "date": 1772737722,
           "commit-sha": "1641fffa9bcf88285b51cb77bf9f1229c2d1352d"
         }
+      },
+      {
+        "name": "Winter",
+        "preview": "Winter.webp",
+        "file": "Winter.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "hrdq"
+          }
+        ],
+        "meta": {
+          "date": 1793426257,
+          "commit-sha": "40c72c85ee9deb65aa2c84730a5ee1567e5804a3"
+        }
       }
     ],
     "ti-bp-effects": [
