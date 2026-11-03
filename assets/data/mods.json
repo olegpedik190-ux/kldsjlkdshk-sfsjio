@@ -15847,6 +15847,25 @@
           "date": 1793525913,
           "commit-sha": "05440c1b1ac24506ded741d5911d749a73ad7819"
         }
+      },
+      {
+        "name": "Morphling White",
+        "preview": "Morphling White.webp",
+        "file": "Morphling White.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "cursedseizures"
+          }
+        ],
+        "meta": {
+          "date": 1793530595,
+          "commit-sha": "0a393949ec16f921dd27626d6e2eb3592e61dcdc"
+        }
       }
     ],
     "shaders": [
