@@ -15904,6 +15904,21 @@
           "date": 1793620367,
           "commit-sha": "8eed2edc12453184eeb55e326c73b76fd7e126c3"
         }
+      },
+      {
+        "name": "Grimstroke The Chained Scribe",
+        "preview": "Grimstroke The Chained Scribe.webp",
+        "file": "Grimstroke The Chained Scribe.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1793620367,
+          "commit-sha": "8eed2edc12453184eeb55e326c73b76fd7e126c3"
+        }
       }
     ],
     "shaders": [
