@@ -20918,6 +20918,25 @@
           "date": 1793530595,
           "commit-sha": "0a393949ec16f921dd27626d6e2eb3592e61dcdc"
         }
+      },
+      {
+        "name": "White Diretide Ranged Attack",
+        "preview": "White Diretide Ranged Attack.webp",
+        "file": "White Diretide Ranged Attack.zip",
+        "links": [
+          {
+            "type": "modded",
+            "url": "cursedseizures"
+          },
+          {
+            "type": "author",
+            "url": "Kisilev"
+          }
+        ],
+        "meta": {
+          "date": 1793530595,
+          "commit-sha": "0a393949ec16f921dd27626d6e2eb3592e61dcdc"
+        }
       }
     ],
     "mega-kill": [
