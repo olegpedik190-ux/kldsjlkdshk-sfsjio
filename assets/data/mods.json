@@ -22665,6 +22665,21 @@
           "date": 1793169329,
           "commit-sha": "858c5c019998b6fff8724c3f7f91be4080ac845e"
         }
+      },
+      {
+        "name": "Dark Grey Minimap",
+        "preview": "Dark Grey Minimap.webp",
+        "file": "Dark Grey Minimap.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "YZT"
+          }
+        ],
+        "meta": {
+          "date": 1793620367,
+          "commit-sha": "8eed2edc12453184eeb55e326c73b76fd7e126c3"
+        }
       }
     ],
     "huds": [
