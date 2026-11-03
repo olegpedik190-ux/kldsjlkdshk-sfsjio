@@ -25800,6 +25800,21 @@
           "date": 1791974606,
           "commit-sha": "54f2337f73c4af413e06f4808a02dde2305ed14d"
         }
+      },
+      {
+        "name": "Immortal Ranks Ii",
+        "preview": "Immortal Ranks Ii.webp",
+        "file": "Immortal Ranks Ii.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1793701131,
+          "commit-sha": "87fa86229c72449fc86d9a62fc85d137f30abee0"
+        }
       }
     ],
     "item-icons": [
