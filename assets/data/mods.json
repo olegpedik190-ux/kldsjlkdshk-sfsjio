@@ -30041,6 +30041,21 @@
                 "date": 1793361682,
                 "commit-sha": "8548f37c03bb9b395c48bbda52c89c7df0413dfc"
               }
+            },
+            {
+              "name": "Black Dagon",
+              "preview": "Black Dagon.webp",
+              "file": "Black Dagon.zip",
+              "links": [
+                {
+                  "type": "author",
+                  "url": "depex"
+                }
+              ],
+              "meta": {
+                "date": 1793701131,
+                "commit-sha": "87fa86229c72449fc86d9a62fc85d137f30abee0"
+              }
             }
           ]
         },
