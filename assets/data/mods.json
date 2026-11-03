@@ -29022,6 +29022,25 @@
           "date": 1793451373,
           "commit-sha": "a14fa485bf83f4a3bf17640ae3c189771b1ba3ba"
         }
+      },
+      {
+        "name": "Shadow Fiend Requiem Of Poop",
+        "preview": "Shadow Fiend Requiem Of Poop.webp",
+        "file": "Shadow Fiend Requiem Of Poop.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Swin-РукаBlood"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/tQpfMFYf_NE"
+          }
+        ],
+        "meta": {
+          "date": 1793525913,
+          "commit-sha": "05440c1b1ac24506ded741d5911d749a73ad7819"
+        }
       }
     ],
     "sounds": [
