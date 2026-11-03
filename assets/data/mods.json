@@ -20899,6 +20899,25 @@
           "date": 1764003644,
           "commit-sha": "4d57ea2aa8f1391fb3e6053c1d5761f9cfa314e9"
         }
+      },
+      {
+        "name": "Black Diretide Ranged Attack",
+        "preview": "Black Diretide Ranged Attack.webp",
+        "file": "Black Diretide Ranged Attack.zip",
+        "links": [
+          {
+            "type": "modded",
+            "url": "cursedseizures"
+          },
+          {
+            "type": "author",
+            "url": "Kisilev"
+          }
+        ],
+        "meta": {
+          "date": 1793530595,
+          "commit-sha": "0a393949ec16f921dd27626d6e2eb3592e61dcdc"
+        }
       }
     ],
     "mega-kill": [
