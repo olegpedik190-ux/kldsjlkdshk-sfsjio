@@ -15885,6 +15885,25 @@
           "date": 1793620367,
           "commit-sha": "8eed2edc12453184eeb55e326c73b76fd7e126c3"
         }
+      },
+      {
+        "name": "Invoker True Form",
+        "preview": "Invoker True Form.webp",
+        "file": "Invoker True Form.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1793620367,
+          "commit-sha": "8eed2edc12453184eeb55e326c73b76fd7e126c3"
+        }
       }
     ],
     "shaders": [
