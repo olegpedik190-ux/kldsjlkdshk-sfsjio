@@ -25283,6 +25283,24 @@
           "date": 1793701131,
           "commit-sha": "87fa86229c72449fc86d9a62fc85d137f30abee0"
         }
+      },
+      {
+        "name": "Largo Background",
+        "preview": "Largo Background.webp",
+        "file": "Largo Background.zip",
+        "tags": {
+          "image": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Swin-РукаBlood"
+          }
+        ],
+        "meta": {
+          "date": 1793701131,
+          "commit-sha": "87fa86229c72449fc86d9a62fc85d137f30abee0"
+        }
       }
     ],
     "tools": [
