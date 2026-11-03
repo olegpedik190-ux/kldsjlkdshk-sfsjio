@@ -16898,6 +16898,21 @@
           "date": 1793530595,
           "commit-sha": "0a393949ec16f921dd27626d6e2eb3592e61dcdc"
         }
+      },
+      {
+        "name": "Emblem Of The Diretide White",
+        "preview": "Emblem Of The Diretide White.webp",
+        "file": "Emblem Of The Diretide White.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "cursedseizures"
+          }
+        ],
+        "meta": {
+          "date": 1793530595,
+          "commit-sha": "0a393949ec16f921dd27626d6e2eb3592e61dcdc"
+        }
       }
     ],
     "versus-screens": [
