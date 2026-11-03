@@ -29041,6 +29041,25 @@
           "date": 1793525913,
           "commit-sha": "05440c1b1ac24506ded741d5911d749a73ad7819"
         }
+      },
+      {
+        "name": "Doom Sematary Ult",
+        "preview": "Doom Sematary Ult.webp",
+        "file": "Doom Sematary Ult.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "xvii"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/T80Zq0CevF0"
+          }
+        ],
+        "meta": {
+          "date": 1793525913,
+          "commit-sha": "05440c1b1ac24506ded741d5911d749a73ad7819"
+        }
       }
     ],
     "sounds": [
