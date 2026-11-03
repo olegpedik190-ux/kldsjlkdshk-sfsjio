@@ -22680,6 +22680,21 @@
           "date": 1793620367,
           "commit-sha": "8eed2edc12453184eeb55e326c73b76fd7e126c3"
         }
+      },
+      {
+        "name": "Black Minimap",
+        "preview": "Black Minimap.webp",
+        "file": "Black Minimap.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "YZT"
+          }
+        ],
+        "meta": {
+          "date": 1793620367,
+          "commit-sha": "8eed2edc12453184eeb55e326c73b76fd7e126c3"
+        }
       }
     ],
     "huds": [
