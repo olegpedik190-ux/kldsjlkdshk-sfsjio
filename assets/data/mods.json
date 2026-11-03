@@ -23463,6 +23463,21 @@
           "date": 1793525913,
           "commit-sha": "05440c1b1ac24506ded741d5911d749a73ad7819"
         }
+      },
+      {
+        "name": "White Radius Texture",
+        "preview": "White Radius Texture.webp",
+        "file": "White Radius Texture.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "SenkuXVII"
+          }
+        ],
+        "meta": {
+          "date": 1793525913,
+          "commit-sha": "05440c1b1ac24506ded741d5911d749a73ad7819"
+        }
       }
     ],
     "river": [
