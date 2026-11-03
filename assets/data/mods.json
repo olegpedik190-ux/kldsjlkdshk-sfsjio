@@ -15919,6 +15919,36 @@
           "date": 1793620367,
           "commit-sha": "8eed2edc12453184eeb55e326c73b76fd7e126c3"
         }
+      },
+      {
+        "name": "Broodmother Sharp Rose",
+        "preview": "Broodmother Sharp Rose.webp",
+        "file": "Broodmother Sharp Rose.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          }
+        ],
+        "meta": {
+          "date": 1793620367,
+          "commit-sha": "8eed2edc12453184eeb55e326c73b76fd7e126c3"
+        }
+      },
+      {
+        "name": "Cj Anti Mage",
+        "preview": "Cj Anti Mage.webp",
+        "file": "Cj Anti Mage.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Swin-РукаBlood"
+          }
+        ],
+        "meta": {
+          "date": 1793701131,
+          "commit-sha": "87fa86229c72449fc86d9a62fc85d137f30abee0"
+        }
       }
     ],
     "shaders": [
