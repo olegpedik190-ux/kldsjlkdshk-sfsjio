@@ -23433,6 +23433,21 @@
           "date": 1792518355,
           "commit-sha": "1b1ed8978da06451e53dc2932d313999abbe30b1"
         }
+      },
+      {
+        "name": "Dark Radius Texture",
+        "preview": "Dark Radius Texture.webp",
+        "file": "Dark Radius Texture.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "SenkuXVII"
+          }
+        ],
+        "meta": {
+          "date": 1793525913,
+          "commit-sha": "05440c1b1ac24506ded741d5911d749a73ad7819"
+        }
       }
     ],
     "river": [
