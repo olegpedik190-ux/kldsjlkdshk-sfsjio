@@ -15832,6 +15832,21 @@
           "date": 1793525913,
           "commit-sha": "05440c1b1ac24506ded741d5911d749a73ad7819"
         }
+      },
+      {
+        "name": "Abaddon Anointed Armor",
+        "preview": "Abaddon Anointed Armor.webp",
+        "file": "Abaddon Anointed Armor.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "J0nathan550"
+          }
+        ],
+        "meta": {
+          "date": 1793525913,
+          "commit-sha": "05440c1b1ac24506ded741d5911d749a73ad7819"
+        }
       }
     ],
     "shaders": [
