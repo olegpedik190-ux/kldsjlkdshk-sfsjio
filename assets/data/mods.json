@@ -15802,6 +15802,21 @@
           "date": 1793525913,
           "commit-sha": "05440c1b1ac24506ded741d5911d749a73ad7819"
         }
+      },
+      {
+        "name": "Morphling Shotgun Chicken Gun",
+        "preview": "Morphling Shotgun Chicken Gun.webp",
+        "file": "Morphling Shotgun Chicken Gun.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Mirik522"
+          }
+        ],
+        "meta": {
+          "date": 1793525913,
+          "commit-sha": "05440c1b1ac24506ded741d5911d749a73ad7819"
+        }
       }
     ],
     "shaders": [
