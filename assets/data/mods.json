@@ -27190,6 +27190,21 @@
           "date": 1792947904,
           "commit-sha": "6eb0c7c6706fe9251cf51e53a466b82a5897ebd8"
         }
+      },
+      {
+        "name": "Warcraft III Music",
+        "preview": "Warcraft III Music.webp",
+        "file": "Warcraft III Music.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1793866697,
+          "commit-sha": "f1b462a5b2fca0169d7339829941287b65071296"
+        }
       }
     ],
     "cursors": [
