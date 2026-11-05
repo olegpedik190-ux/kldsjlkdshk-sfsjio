@@ -29811,6 +29811,21 @@
           "date": 1793771850,
           "commit-sha": "5655a174bd2a0b685fc689c5f69807e76f395c83"
         }
+      },
+      {
+        "name": "Warcraft 3 Allstars Voices Ru",
+        "preview": "Warcraft 3 Allstars Voices Ru.webp",
+        "file": "Warcraft 3 Allstars Voices Ru.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1793862465,
+          "commit-sha": "035f9691b4fd45d2346c453427864657b8d0ea6b"
+        }
       }
     ],
     "packs": [
