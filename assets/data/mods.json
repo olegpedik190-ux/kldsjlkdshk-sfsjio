@@ -17288,6 +17288,21 @@
         "name": "Dark Night (с твиками)",
         "file": "dark-night.zip.enc",
         "preview": ""
+      },
+      {
+        "name": "Warcraft III",
+        "preview": "Warcraft III.webp",
+        "file": "Warcraft III.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1793866697,
+          "commit-sha": "f1b462a5b2fca0169d7339829941287b65071296"
+        }
       }
     ],
     "trees": [
