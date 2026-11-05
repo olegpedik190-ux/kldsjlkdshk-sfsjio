@@ -15949,6 +15949,25 @@
           "date": 1793701131,
           "commit-sha": "87fa86229c72449fc86d9a62fc85d137f30abee0"
         }
+      },
+      {
+        "name": "Arc Warden Black Knight",
+        "preview": "Arc Warden Black Knight.webp",
+        "file": "Arc Warden Black Knight.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "NahuiToSay"
+          }
+        ],
+        "meta": {
+          "date": 1793767768,
+          "commit-sha": "92d57734329b37978b9c0de41342dd01211dd11a"
+        }
       }
     ],
     "shaders": [
