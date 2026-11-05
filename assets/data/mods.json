@@ -20915,6 +20915,21 @@
           "date": 1791342818,
           "commit-sha": "79a9a1f564d4895caacac2c8420abe3699ea4a75"
         }
+      },
+      {
+        "name": "Warcraft III Tormentor",
+        "preview": "Warcraft III Tormentor.webp",
+        "file": "Warcraft III Tormentor.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1793866697,
+          "commit-sha": "f1b462a5b2fca0169d7339829941287b65071296"
+        }
       }
     ],
     "ranged-attack": [
