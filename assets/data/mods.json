@@ -25499,6 +25499,21 @@
           "date": 1793701131,
           "commit-sha": "87fa86229c72449fc86d9a62fc85d137f30abee0"
         }
+      },
+      {
+        "name": "Hero Loadout 7 00 Style",
+        "preview": "Hero Loadout 7 00 Style.webp",
+        "file": "Hero Loadout 7 00 Style.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Harlord"
+          }
+        ],
+        "meta": {
+          "date": 1793862465,
+          "commit-sha": "035f9691b4fd45d2346c453427864657b8d0ea6b"
+        }
       }
     ],
     "tools": [
