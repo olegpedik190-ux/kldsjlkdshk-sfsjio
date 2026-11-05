@@ -22857,6 +22857,24 @@
           "date": 1793620367,
           "commit-sha": "8eed2edc12453184eeb55e326c73b76fd7e126c3"
         }
+      },
+      {
+        "name": "Anime Scoreboard",
+        "preview": "Anime Scoreboard.webp",
+        "file": "Anime Scoreboard.zip",
+        "tags": {
+          "css": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "KoH4atb_H3T"
+          }
+        ],
+        "meta": {
+          "date": 1793862465,
+          "commit-sha": "035f9691b4fd45d2346c453427864657b8d0ea6b"
+        }
       }
     ],
     "huds": [
