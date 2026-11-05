@@ -30242,6 +30242,21 @@
                 "date": 1766624100,
                 "commit-sha": "8e30624cd126891da7551eb77f16af691cf0ee8e"
               }
+            },
+            {
+              "name": "Warcraft III Towers",
+              "preview": "Warcraft III Towers.webp",
+              "file": "Warcraft III Towers.zip",
+              "links": [
+                {
+                  "type": "author",
+                  "url": "Fr0dech"
+                }
+              ],
+              "meta": {
+                "date": 1793866697,
+                "commit-sha": "f1b462a5b2fca0169d7339829941287b65071296"
+              }
             }
           ]
         },
