@@ -15968,6 +15968,21 @@
           "date": 1793767768,
           "commit-sha": "92d57734329b37978b9c0de41342dd01211dd11a"
         }
+      },
+      {
+        "name": "Pudge Big Smoke",
+        "preview": "Pudge Big Smoke.webp",
+        "file": "Pudge Big Smoke.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Mirik522"
+          }
+        ],
+        "meta": {
+          "date": 1793771850,
+          "commit-sha": "5655a174bd2a0b685fc689c5f69807e76f395c83"
+        }
       }
     ],
     "shaders": [
