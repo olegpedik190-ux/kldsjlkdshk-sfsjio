@@ -22875,6 +22875,24 @@
           "date": 1793862465,
           "commit-sha": "035f9691b4fd45d2346c453427864657b8d0ea6b"
         }
+      },
+      {
+        "name": "Gridstudio Hero Meta",
+        "preview": "Gridstudio Hero Meta.webp",
+        "file": "Gridstudio Hero Meta.zip",
+        "tags": {
+          "css": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "GridStudio"
+          }
+        ],
+        "meta": {
+          "date": 1793862465,
+          "commit-sha": "035f9691b4fd45d2346c453427864657b8d0ea6b"
+        }
       }
     ],
     "huds": [
