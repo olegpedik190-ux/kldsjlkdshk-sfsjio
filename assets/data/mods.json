@@ -15983,6 +15983,29 @@
           "date": 1793771850,
           "commit-sha": "5655a174bd2a0b685fc689c5f69807e76f395c83"
         }
+      },
+      {
+        "name": "Witchblvde Purple Naga Siren",
+        "preview": "Witchblvde Purple Naga Siren.webp",
+        "file": "Witchblvde Purple Naga Siren.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "blvdness"
+          },
+          {
+            "type": "author",
+            "url": "sabzeek"
+          }
+        ],
+        "meta": {
+          "date": 1793862465,
+          "commit-sha": "035f9691b4fd45d2346c453427864657b8d0ea6b"
+        }
       }
     ],
     "shaders": [
