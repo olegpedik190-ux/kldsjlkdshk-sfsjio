@@ -20856,6 +20856,21 @@
           "date": 1784792710,
           "commit-sha": "f1947a618d214ee857fa6529214507b29d41becb"
         }
+      },
+      {
+        "name": "Warcraft III Ancient",
+        "preview": "Warcraft III Ancient.webp",
+        "file": "Warcraft III Ancient.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1793866697,
+          "commit-sha": "f1b462a5b2fca0169d7339829941287b65071296"
+        }
       }
     ],
     "tormentor": [
