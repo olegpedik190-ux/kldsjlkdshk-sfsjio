@@ -32146,6 +32146,23 @@
           "commit-sha": "d06194602246139701f48f3b345468ea89ebff92"
         }
       }
+    ],
+    "neutral-creeps": [
+      {
+        "name": "Warcraft III Neutrals",
+        "preview": "Warcraft III Neutrals.webp",
+        "file": "Warcraft III Neutrals.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1793866697,
+          "commit-sha": "f1b462a5b2fca0169d7339829941287b65071296"
+        }
+      }
     ]
   }
 }
