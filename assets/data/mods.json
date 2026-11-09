@@ -30635,6 +30635,21 @@
                 "date": 1794001215,
                 "commit-sha": "7176a22d7a997333cb951b188466e7cf2113654f"
               }
+            },
+            {
+              "name": "Grasp of the Elder Gods Dire",
+              "preview": "Grasp of the Elder Gods Dire.webp",
+              "file": "Grasp of the Elder Gods Dire.zip",
+              "links": [
+                {
+                  "type": "author",
+                  "url": "ZerdacK"
+                }
+              ],
+              "meta": {
+                "date": 1794001215,
+                "commit-sha": "7176a22d7a997333cb951b188466e7cf2113654f"
+              }
             }
           ]
         },
