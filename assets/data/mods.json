@@ -30605,6 +30605,21 @@
                 "date": 1794001215,
                 "commit-sha": "7176a22d7a997333cb951b188466e7cf2113654f"
               }
+            },
+            {
+              "name": "Warcraft III Dire",
+              "preview": "Warcraft III Dire.webp",
+              "file": "Warcraft III Dire.zip",
+              "links": [
+                {
+                  "type": "author",
+                  "url": "Fr0dech"
+                }
+              ],
+              "meta": {
+                "date": 1794001215,
+                "commit-sha": "7176a22d7a997333cb951b188466e7cf2113654f"
+              }
             }
           ]
         },
