@@ -25672,6 +25672,24 @@
           "date": 1793998477,
           "commit-sha": "dce8441db20f42ac17d1cbc5eab5de8d2fce538b"
         }
+      },
+      {
+        "name": "Frozen Throne",
+        "preview": "Frozen Throne.webp",
+        "file": "Frozen Throne.zip",
+        "tags": {
+          "video": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "samoredoto"
+          }
+        ],
+        "meta": {
+          "date": 1794145496,
+          "commit-sha": "8a25eff9eb44641f0ee4cc8a0c564060b1b14966"
+        }
       }
     ],
     "tools": [
