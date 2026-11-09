@@ -30575,6 +30575,21 @@
                 "date": 1794001215,
                 "commit-sha": "7176a22d7a997333cb951b188466e7cf2113654f"
               }
+            },
+            {
+              "name": "Stoneclaw Scavengers Radiant",
+              "preview": "Stoneclaw Scavengers Radiant.webp",
+              "file": "Stoneclaw Scavengers Radiant.zip",
+              "links": [
+                {
+                  "type": "author",
+                  "url": "ZerdacK"
+                }
+              ],
+              "meta": {
+                "date": 1794001215,
+                "commit-sha": "7176a22d7a997333cb951b188466e7cf2113654f"
+              }
             }
           ]
         },
