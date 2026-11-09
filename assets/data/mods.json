@@ -23400,6 +23400,25 @@
           "date": 1793178545,
           "commit-sha": "6b57bfcd6931f586f2ed99b4c148d6ff848716bd"
         }
+      },
+      {
+        "name": "Ghoulsss Full Red Hud",
+        "preview": "Ghoulsss Full Red Hud.webp",
+        "file": "Ghoulsss Full Red Hud.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/KAU42uRU7C0?si=u424XeoA6ATOcI3g"
+          }
+        ],
+        "meta": {
+          "date": 1794043573,
+          "commit-sha": "69bf48a92151f7ff4d1c2fd3f30bd72410dd9451"
+        }
       }
     ],
     "high-five": [
