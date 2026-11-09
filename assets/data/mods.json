@@ -30590,6 +30590,21 @@
                 "date": 1794001215,
                 "commit-sha": "7176a22d7a997333cb951b188466e7cf2113654f"
               }
+            },
+            {
+              "name": "Crownfall Radiant",
+              "preview": "Crownfall Radiant.webp",
+              "file": "Crownfall Radiant.zip",
+              "links": [
+                {
+                  "type": "author",
+                  "url": "ZerdacK"
+                }
+              ],
+              "meta": {
+                "date": 1794001215,
+                "commit-sha": "7176a22d7a997333cb951b188466e7cf2113654f"
+              }
             }
           ]
         },
