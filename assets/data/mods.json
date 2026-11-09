@@ -25690,6 +25690,24 @@
           "date": 1794145496,
           "commit-sha": "8a25eff9eb44641f0ee4cc8a0c564060b1b14966"
         }
+      },
+      {
+        "name": "Elaina Blade",
+        "preview": "Elaina Blade.webp",
+        "file": "Elaina Blade.zip",
+        "tags": {
+          "video": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "qoofix"
+          }
+        ],
+        "meta": {
+          "date": 1794177576,
+          "commit-sha": "91501e497bc348aa699dedc3a633cc50d0295db4"
+        }
       }
     ],
     "tools": [
