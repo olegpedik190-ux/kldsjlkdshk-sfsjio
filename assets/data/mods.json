@@ -16064,6 +16064,21 @@
           "date": 1794039333,
           "commit-sha": "c3cf5336c1ff7ea3863a5ab4bba7de3944e3ac96"
         }
+      },
+      {
+        "name": "Meepo Chicken Gun",
+        "preview": "Meepo Chicken Gun.webp",
+        "file": "Meepo Chicken Gun.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Mirik522"
+          }
+        ],
+        "meta": {
+          "date": 1794145496,
+          "commit-sha": "8a25eff9eb44641f0ee4cc8a0c564060b1b14966"
+        }
       }
     ],
     "shaders": [
