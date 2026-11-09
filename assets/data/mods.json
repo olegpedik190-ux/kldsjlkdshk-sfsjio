@@ -16045,6 +16045,25 @@
           "date": 1794039333,
           "commit-sha": "c3cf5336c1ff7ea3863a5ab4bba7de3944e3ac96"
         }
+      },
+      {
+        "name": "The Nuclear Arc Warden",
+        "preview": "The Nuclear Arc Warden.webp",
+        "file": "The Nuclear Arc Warden.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Schizo"
+          }
+        ],
+        "meta": {
+          "date": 1794039333,
+          "commit-sha": "c3cf5336c1ff7ea3863a5ab4bba7de3944e3ac96"
+        }
       }
     ],
     "shaders": [
