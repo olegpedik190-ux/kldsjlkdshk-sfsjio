@@ -17043,6 +17043,21 @@
           "date": 1793530595,
           "commit-sha": "0a393949ec16f921dd27626d6e2eb3592e61dcdc"
         }
+      },
+      {
+        "name": "Emblem Of The Diretide Pink",
+        "preview": "Emblem Of The Diretide Pink.webp",
+        "file": "Emblem Of The Diretide Pink.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "cursedseizures"
+          }
+        ],
+        "meta": {
+          "date": 1793998477,
+          "commit-sha": "dce8441db20f42ac17d1cbc5eab5de8d2fce538b"
+        }
       }
     ],
     "versus-screens": [
