@@ -29545,6 +29545,25 @@
           "date": 1793525913,
           "commit-sha": "05440c1b1ac24506ded741d5911d749a73ad7819"
         }
+      },
+      {
+        "name": "Shadow Fiend Taunt 2021",
+        "preview": "Shadow Fiend Taunt 2021.webp",
+        "file": "Shadow Fiend Taunt 2021.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "xvii"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/_FGAaTNPEz4"
+          }
+        ],
+        "meta": {
+          "date": 1793998477,
+          "commit-sha": "dce8441db20f42ac17d1cbc5eab5de8d2fce538b"
+        }
       }
     ],
     "sounds": [
