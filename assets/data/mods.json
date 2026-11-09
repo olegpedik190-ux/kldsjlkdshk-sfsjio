@@ -30830,6 +30830,21 @@
                 "date": 1793687896,
                 "commit-sha": "22e439307fd81890a4d2f198dcc983f71e83368f"
               }
+            },
+            {
+              "name": "Meteor White",
+              "preview": "Meteor White.webp",
+              "file": "Meteor White.zip",
+              "links": [
+                {
+                  "type": "author",
+                  "url": "cursedseizures"
+                }
+              ],
+              "meta": {
+                "date": 1793949506,
+                "commit-sha": "ad7586b627d76f021c21d2f25ec70aca33edc5af"
+              }
             }
           ]
         },
