@@ -30845,6 +30845,21 @@
                 "date": 1793949506,
                 "commit-sha": "ad7586b627d76f021c21d2f25ec70aca33edc5af"
               }
+            },
+            {
+              "name": "White Ti13 Teleport",
+              "preview": "White Ti13 Teleport.webp",
+              "file": "White Ti13 Teleport.zip",
+              "links": [
+                {
+                  "type": "author",
+                  "url": "depex"
+                }
+              ],
+              "meta": {
+                "date": 1793949506,
+                "commit-sha": "ad7586b627d76f021c21d2f25ec70aca33edc5af"
+              }
             }
           ]
         },
