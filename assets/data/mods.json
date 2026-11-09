@@ -30515,6 +30515,21 @@
                 "date": 1793866697,
                 "commit-sha": "f1b462a5b2fca0169d7339829941287b65071296"
               }
+            },
+            {
+              "name": "Warcraft III Radiant",
+              "preview": "Warcraft III Radiant.webp",
+              "file": "Warcraft III Radiant.zip",
+              "links": [
+                {
+                  "type": "author",
+                  "url": "Fr0dech"
+                }
+              ],
+              "meta": {
+                "date": 1794001215,
+                "commit-sha": "7176a22d7a997333cb951b188466e7cf2113654f"
+              }
             }
           ]
         },
