@@ -21187,6 +21187,21 @@
           "date": 1793530595,
           "commit-sha": "0a393949ec16f921dd27626d6e2eb3592e61dcdc"
         }
+      },
+      {
+        "name": "Pink Diretide Ranged Attack",
+        "preview": "Pink Diretide Ranged Attack.webp",
+        "file": "Pink Diretide Ranged Attack.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "cursedseizures"
+          }
+        ],
+        "meta": {
+          "date": 1794145496,
+          "commit-sha": "8a25eff9eb44641f0ee4cc8a0c564060b1b14966"
+        }
       }
     ],
     "mega-kill": [
