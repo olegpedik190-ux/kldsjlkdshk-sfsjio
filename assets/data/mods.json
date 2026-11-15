@@ -30353,6 +30353,25 @@
           "date": 1793998477,
           "commit-sha": "dce8441db20f42ac17d1cbc5eab5de8d2fce538b"
         }
+      },
+      {
+        "name": "Keeper Of The Light Taunt 10000 Weeping",
+        "preview": "Keeper Of The Light Taunt 10000 Weeping.webp",
+        "file": "Keeper Of The Light Taunt 10000 Weeping.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          },
+          {
+            "type": "preview",
+            "url": "https://www.youtube.com/watch?v=xN-3ed0ooYc"
+          }
+        ],
+        "meta": {
+          "date": 1794775254,
+          "commit-sha": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18"
+        }
       }
     ],
     "sounds": [
