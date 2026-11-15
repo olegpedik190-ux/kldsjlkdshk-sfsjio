@@ -26458,6 +26458,24 @@
           "date": 1794347188,
           "commit-sha": "e7fb5a6367295602ea901c681230b66a875d4da5"
         }
+      },
+      {
+        "name": "Cloud Vs Sephiroth By Siriusz",
+        "preview": "Cloud Vs Sephiroth By Siriusz.webp",
+        "file": "Cloud Vs Sephiroth By Siriusz.zip",
+        "tags": {
+          "video": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Siriusz"
+          }
+        ],
+        "meta": {
+          "date": 1794493637,
+          "commit-sha": "1fa10f19be5ef3915f7cd1e0eb56181d10e96404"
+        }
       }
     ],
     "tools": [
