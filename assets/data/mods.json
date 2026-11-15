@@ -16226,6 +16226,25 @@
           "date": 1794596240,
           "commit-sha": "e58c48d6d9a20bde030958db1c8dc84392d963f8"
         }
+      },
+      {
+        "name": "Tinker Warcraft",
+        "preview": "Tinker Warcraft.webp",
+        "file": "Tinker Warcraft.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "4d4mf"
+          }
+        ],
+        "meta": {
+          "date": 1794596240,
+          "commit-sha": "e58c48d6d9a20bde030958db1c8dc84392d963f8"
+        }
       }
     ],
     "shaders": [
