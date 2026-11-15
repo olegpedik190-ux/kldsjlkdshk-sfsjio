@@ -16079,6 +16079,25 @@
           "date": 1794145496,
           "commit-sha": "8a25eff9eb44641f0ee4cc8a0c564060b1b14966"
         }
+      },
+      {
+        "name": "Huskar Bloodbath",
+        "preview": "Huskar Bloodbath.webp",
+        "file": "Huskar Bloodbath.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "Something Awful"
+          }
+        ],
+        "meta": {
+          "date": 1794250919,
+          "commit-sha": "84bcbdbd9506d10c9e84dc0c79e31d9942deba2d"
+        }
       }
     ],
     "shaders": [
