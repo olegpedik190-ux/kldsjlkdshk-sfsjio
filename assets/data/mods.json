@@ -16621,6 +16621,29 @@
           "date": 1794708399,
           "commit-sha": "ff6bd9f90d1e74fd2936cc0120659a7376c37e3d"
         }
+      },
+      {
+        "name": "The Final Doom By Armair",
+        "preview": "The Final Doom By Armair.webp",
+        "file": "The Final Doom By Armair.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "modded",
+            "url": "armair"
+          },
+          {
+            "type": "author",
+            "url": "Harlord"
+          }
+        ],
+        "meta": {
+          "date": 1794775254,
+          "commit-sha": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18"
+        }
       }
     ],
     "shaders": [
