@@ -26443,6 +26443,21 @@
           "date": 1794250919,
           "commit-sha": "84bcbdbd9506d10c9e84dc0c79e31d9942deba2d"
         }
+      },
+      {
+        "name": "Qwop Arcana",
+        "preview": "Qwop Arcana.webp",
+        "file": "Qwop Arcana.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Swin-РукаBlood"
+          }
+        ],
+        "meta": {
+          "date": 1794347188,
+          "commit-sha": "e7fb5a6367295602ea901c681230b66a875d4da5"
+        }
       }
     ],
     "tools": [
