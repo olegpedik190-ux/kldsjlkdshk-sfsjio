@@ -16455,6 +16455,21 @@
           "date": 1794600940,
           "commit-sha": "7b4baf9d23aa6be235742225174e4701370dd326"
         }
+      },
+      {
+        "name": "Warcraft 3 Crystal Maiden",
+        "preview": "Warcraft 3 Crystal Maiden.webp",
+        "file": "Warcraft 3 Crystal Maiden.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1794600940,
+          "commit-sha": "7b4baf9d23aa6be235742225174e4701370dd326"
+        }
       }
     ],
     "shaders": [
