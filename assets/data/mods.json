@@ -16560,6 +16560,25 @@
           "date": 1794649159,
           "commit-sha": "84fc7129cbd1069fcb37f06d1f132c19ec2b5ff7"
         }
+      },
+      {
+        "name": "Phantom Lancer Arima",
+        "preview": "Phantom Lancer Arima.webp",
+        "file": "Phantom Lancer Arima.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "qizlik"
+          }
+        ],
+        "meta": {
+          "date": 1794708399,
+          "commit-sha": "ff6bd9f90d1e74fd2936cc0120659a7376c37e3d"
+        }
       }
     ],
     "shaders": [
