@@ -16181,6 +16181,21 @@
           "date": 1794430681,
           "commit-sha": "550254c9e039f57f6f96631b815297fb7c0d981e"
         }
+      },
+      {
+        "name": "Warcraft 3 Alchemist",
+        "preview": "Warcraft 3 Alchemist.webp",
+        "file": "Warcraft 3 Alchemist.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1794596240,
+          "commit-sha": "e58c48d6d9a20bde030958db1c8dc84392d963f8"
+        }
       }
     ],
     "shaders": [
