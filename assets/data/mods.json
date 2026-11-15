@@ -16139,6 +16139,25 @@
           "date": 1794430681,
           "commit-sha": "550254c9e039f57f6f96631b815297fb7c0d981e"
         }
+      },
+      {
+        "name": "Leshrac Do 5300 Ne Podbrosite",
+        "preview": "Leshrac Do 5300 Ne Podbrosite.webp",
+        "file": "Leshrac Do 5300 Ne Podbrosite.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "александр"
+          }
+        ],
+        "meta": {
+          "date": 1794430681,
+          "commit-sha": "550254c9e039f57f6f96631b815297fb7c0d981e"
+        }
       }
     ],
     "shaders": [
