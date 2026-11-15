@@ -16098,6 +16098,28 @@
           "date": 1794250919,
           "commit-sha": "84bcbdbd9506d10c9e84dc0c79e31d9942deba2d"
         }
+      },
+      {
+        "name": "Templar Assassin Headress",
+        "preview": "Templar Assassin Headress.webp",
+        "file": "Templar Assassin Headress.zip",
+        "tags": {
+          "effects": true
+        },
+        "links": [
+          {
+            "type": "modded",
+            "url": "AngelNeverSleep"
+          },
+          {
+            "type": "author",
+            "url": "Harlord"
+          }
+        ],
+        "meta": {
+          "date": 1794250919,
+          "commit-sha": "84bcbdbd9506d10c9e84dc0c79e31d9942deba2d"
+        }
       }
     ],
     "shaders": [
