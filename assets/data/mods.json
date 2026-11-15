@@ -16245,6 +16245,21 @@
           "date": 1794596240,
           "commit-sha": "e58c48d6d9a20bde030958db1c8dc84392d963f8"
         }
+      },
+      {
+        "name": "Warcraft 3 Axe",
+        "preview": "Warcraft 3 Axe.webp",
+        "file": "Warcraft 3 Axe.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1794600940,
+          "commit-sha": "7b4baf9d23aa6be235742225174e4701370dd326"
+        }
       }
     ],
     "shaders": [
