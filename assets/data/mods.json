@@ -21516,6 +21516,25 @@
           "date": 1793866697,
           "commit-sha": "f1b462a5b2fca0169d7339829941287b65071296"
         }
+      },
+      {
+        "name": "Kaban Roshan Wow",
+        "preview": "Kaban Roshan Wow.webp",
+        "file": "Kaban Roshan Wow.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "NahuiToSay"
+          },
+          {
+            "type": "source",
+            "url": "WoWTools"
+          }
+        ],
+        "meta": {
+          "date": 1794347188,
+          "commit-sha": "e7fb5a6367295602ea901c681230b66a875d4da5"
+        }
       }
     ],
     "ancient": [
