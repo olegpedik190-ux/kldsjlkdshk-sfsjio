@@ -16659,6 +16659,24 @@
           "date": 1794775254,
           "commit-sha": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18"
         }
+      },
+      {
+        "name": "Windranger Kotobuki Tsumugi",
+        "preview": "Windranger Kotobuki Tsumugi.webp",
+        "file": "Windranger Kotobuki Tsumugi.zip",
+        "tags": {
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "mrcorkie"
+          }
+        ],
+        "meta": {
+          "date": 1794775254,
+          "commit-sha": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18"
+        }
       }
     ],
     "shaders": [
