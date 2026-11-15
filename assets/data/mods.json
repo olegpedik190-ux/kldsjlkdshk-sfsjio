@@ -16211,6 +16211,21 @@
           "date": 1794596240,
           "commit-sha": "e58c48d6d9a20bde030958db1c8dc84392d963f8"
         }
+      },
+      {
+        "name": "Warcraft 3 Abaddon",
+        "preview": "Warcraft 3 Abaddon.webp",
+        "file": "Warcraft 3 Abaddon.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1794596240,
+          "commit-sha": "e58c48d6d9a20bde030958db1c8dc84392d963f8"
+        }
       }
     ],
     "shaders": [
