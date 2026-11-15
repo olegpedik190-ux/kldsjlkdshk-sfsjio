@@ -30372,6 +30372,25 @@
           "date": 1794775254,
           "commit-sha": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18"
         }
+      },
+      {
+        "name": "Tsumugi Powershot",
+        "preview": "Tsumugi Powershot.webp",
+        "file": "Tsumugi Powershot.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "mrcorkie"
+          },
+          {
+            "type": "preview",
+            "url": "https://youtu.be/swlOLy8pR-o"
+          }
+        ],
+        "meta": {
+          "date": 1794775254,
+          "commit-sha": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18"
+        }
       }
     ],
     "sounds": [
