@@ -16644,6 +16644,21 @@
           "date": 1794775254,
           "commit-sha": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18"
         }
+      },
+      {
+        "name": "Lifestealer Automaton Ai",
+        "preview": "Lifestealer Automaton Ai.webp",
+        "file": "Lifestealer Automaton Ai.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "dupe busters community"
+          }
+        ],
+        "meta": {
+          "date": 1794775254,
+          "commit-sha": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18"
+        }
       }
     ],
     "shaders": [
