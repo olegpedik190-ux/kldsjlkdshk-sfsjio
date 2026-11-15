@@ -29139,6 +29139,24 @@
           "date": 1791794920,
           "commit-sha": "19c53b71608a56d9457388c6bf5f07e59085779f"
         }
+      },
+      {
+        "name": "Grimstroke Old Effects",
+        "preview": "Grimstroke Old Effects.webp",
+        "file": "Grimstroke Old Effects.zip",
+        "tags": {
+          "effects": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "александр"
+          }
+        ],
+        "meta": {
+          "date": 1794430681,
+          "commit-sha": "550254c9e039f57f6f96631b815297fb7c0d981e"
+        }
       }
     ],
     "hero-sounds": [
