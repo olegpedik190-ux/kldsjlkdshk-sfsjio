@@ -16545,6 +16545,21 @@
           "date": 1794600940,
           "commit-sha": "7b4baf9d23aa6be235742225174e4701370dd326"
         }
+      },
+      {
+        "name": "Warcraft 3 Arc Warden",
+        "preview": "Warcraft 3 Arc Warden.webp",
+        "file": "Warcraft 3 Arc Warden.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1794649159,
+          "commit-sha": "84fc7129cbd1069fcb37f06d1f132c19ec2b5ff7"
+        }
       }
     ],
     "shaders": [
