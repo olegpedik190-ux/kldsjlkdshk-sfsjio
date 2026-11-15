@@ -22320,6 +22320,25 @@
           "date": 1793424595,
           "commit-sha": "271d3c035dc5684f9ec6a8071e4a812b08e2ba16"
         }
+      },
+      {
+        "name": "Barboskiny X Naruto",
+        "preview": "Barboskiny X Naruto.webp",
+        "file": "Barboskiny X Naruto.zip",
+        "links": [
+          {
+            "type": "preview",
+            "url": "https://t.me/samoredoto/34"
+          },
+          {
+            "type": "author",
+            "url": "samoredoto"
+          }
+        ],
+        "meta": {
+          "date": 1794347188,
+          "commit-sha": "e7fb5a6367295602ea901c681230b66a875d4da5"
+        }
       }
     ],
     "announcers": [
