@@ -30945,6 +30945,25 @@
           "date": 1794250919,
           "commit-sha": "84bcbdbd9506d10c9e84dc0c79e31d9942deba2d"
         }
+      },
+      {
+        "name": "Noise Veil Sounds",
+        "preview": "Noise Veil Sounds.webp",
+        "file": "Noise Veil Sounds.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "драг"
+          },
+          {
+            "type": "preview",
+            "url": "https://www.youtube.com/watch?v=qD5Z8I1CfE8"
+          }
+        ],
+        "meta": {
+          "date": 1794775254,
+          "commit-sha": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18"
+        }
       }
     ],
     "packs": [
