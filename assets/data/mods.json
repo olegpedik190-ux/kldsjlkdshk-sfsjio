@@ -23632,6 +23632,24 @@
           "date": 1793862465,
           "commit-sha": "035f9691b4fd45d2346c453427864657b8d0ea6b"
         }
+      },
+      {
+        "name": "White Play Button",
+        "preview": "White Play Button.webp",
+        "file": "White Play Button.zip",
+        "tags": {
+          "css": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "cursedseizures"
+          }
+        ],
+        "meta": {
+          "date": 1794775254,
+          "commit-sha": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18"
+        }
       }
     ],
     "huds": [
