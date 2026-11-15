@@ -31624,6 +31624,21 @@
                 "date": 1794001215,
                 "commit-sha": "7176a22d7a997333cb951b188466e7cf2113654f"
               }
+            },
+            {
+              "name": "Declaration of the Divine Cyan",
+              "preview": "Declaration of the Divine Cyan.webp",
+              "file": "Declaration of the Divine Cyan.zip",
+              "links": [
+                {
+                  "type": "author",
+                  "url": "ZerdacK"
+                }
+              ],
+              "meta": {
+                "date": 1794340312,
+                "commit-sha": "287699d1c35b7bea6356a6a106fd97445949ae67"
+              }
             }
           ]
         },
