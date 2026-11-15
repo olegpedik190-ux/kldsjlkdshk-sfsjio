@@ -26476,6 +26476,24 @@
           "date": 1794493637,
           "commit-sha": "1fa10f19be5ef3915f7cd1e0eb56181d10e96404"
         }
+      },
+      {
+        "name": "Selfie Kafka Dc",
+        "preview": "Selfie Kafka Dc.webp",
+        "file": "Selfie Kafka Dc.zip",
+        "tags": {
+          "video": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "qoofix"
+          }
+        ],
+        "meta": {
+          "date": 1794708399,
+          "commit-sha": "ff6bd9f90d1e74fd2936cc0120659a7376c37e3d"
+        }
       }
     ],
     "tools": [
