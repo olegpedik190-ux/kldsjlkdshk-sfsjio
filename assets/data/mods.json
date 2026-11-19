@@ -17038,6 +17038,29 @@
           "date": 1794861785,
           "commit-sha": "248f9226bc523d41795728c0cbc5e9c9d7c9aa98"
         }
+      },
+      {
+        "name": "The Final Mars",
+        "preview": "The Final Mars.webp",
+        "file": "The Final Mars.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "modded",
+            "url": "armair"
+          },
+          {
+            "type": "author",
+            "url": "Harlord"
+          }
+        ],
+        "meta": {
+          "date": 1794861785,
+          "commit-sha": "248f9226bc523d41795728c0cbc5e9c9d7c9aa98"
+        }
       }
     ],
     "shaders": [
