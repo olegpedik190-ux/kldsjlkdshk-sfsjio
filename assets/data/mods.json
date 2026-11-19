@@ -16692,6 +16692,21 @@
           "date": 1794779021,
           "commit-sha": "61bf51d40054aa2649bcf08715ee399e0615ec11"
         }
+      },
+      {
+        "name": "Warcraft 3 Doom",
+        "preview": "Warcraft 3 Doom.webp",
+        "file": "Warcraft 3 Doom.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1794779021,
+          "commit-sha": "61bf51d40054aa2649bcf08715ee399e0615ec11"
+        }
       }
     ],
     "shaders": [
