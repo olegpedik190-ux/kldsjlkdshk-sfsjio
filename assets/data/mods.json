@@ -31578,6 +31578,21 @@
           "date": 1794775254,
           "commit-sha": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18"
         }
+      },
+      {
+        "name": "Warcraft 3 Voices Italian",
+        "preview": "Warcraft 3 Voices Italian.webp",
+        "file": "Warcraft 3 Voices Italian.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1794953058,
+          "commit-sha": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f"
+        }
       }
     ],
     "packs": [
