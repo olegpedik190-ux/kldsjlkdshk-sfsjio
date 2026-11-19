@@ -25026,6 +25026,21 @@
           "date": 1794953058,
           "commit-sha": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f"
         }
+      },
+      {
+        "name": "Simple Tower Re-Aggro Radius",
+        "preview": "Simple Tower Re-Aggro Radius.webp",
+        "file": "Simple Tower Re-Aggro Radius.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "YZT"
+          }
+        ],
+        "meta": {
+          "date": 1794953058,
+          "commit-sha": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f"
+        }
       }
     ],
     "river": [
