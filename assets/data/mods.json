@@ -17084,6 +17084,28 @@
           "date": 1794914486,
           "commit-sha": "c3df9cb9e54766becce7a3edf3fd6d6b99165e92"
         }
+      },
+      {
+        "name": "Bloody Dragon Knight",
+        "preview": "Bloody Dragon Knight.webp",
+        "file": "Bloody Dragon Knight.zip",
+        "tags": {
+          "effects": true
+        },
+        "links": [
+          {
+            "type": "modded",
+            "url": "armair"
+          },
+          {
+            "type": "author",
+            "url": "Harlord"
+          }
+        ],
+        "meta": {
+          "date": 1794953058,
+          "commit-sha": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f"
+        }
       }
     ],
     "shaders": [
