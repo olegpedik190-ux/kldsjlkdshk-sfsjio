@@ -22817,6 +22817,21 @@
           "date": 1795046713,
           "commit-sha": "9252391ca24d9974bab94fe5b10ad82204d53ddd"
         }
+      },
+      {
+        "name": "Ambient Mega Kill",
+        "preview": "Ambient Mega Kill.webp",
+        "file": "Ambient Mega Kill.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "hahatun"
+          }
+        ],
+        "meta": {
+          "date": 1795046713,
+          "commit-sha": "9252391ca24d9974bab94fe5b10ad82204d53ddd"
+        }
       }
     ],
     "announcers": [
