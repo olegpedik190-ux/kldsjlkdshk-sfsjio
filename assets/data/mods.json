@@ -27089,6 +27089,24 @@
           "date": 1795085800,
           "commit-sha": "e8f0c2662b257176e6601f5d898581ec87a09912"
         }
+      },
+      {
+        "name": "Saya No Uta Cloud",
+        "preview": "Saya No Uta Cloud.webp",
+        "file": "Saya No Uta Cloud.zip",
+        "tags": {
+          "video": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "roolato"
+          }
+        ],
+        "meta": {
+          "date": 1795085800,
+          "commit-sha": "e8f0c2662b257176e6601f5d898581ec87a09912"
+        }
       }
     ],
     "tools": [
