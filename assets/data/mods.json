@@ -16677,6 +16677,21 @@
           "date": 1794775254,
           "commit-sha": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18"
         }
+      },
+      {
+        "name": "Warcraft 3 Disruptor",
+        "preview": "Warcraft 3 Disruptor.webp",
+        "file": "Warcraft 3 Disruptor.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1794779021,
+          "commit-sha": "61bf51d40054aa2649bcf08715ee399e0615ec11"
+        }
       }
     ],
     "shaders": [
