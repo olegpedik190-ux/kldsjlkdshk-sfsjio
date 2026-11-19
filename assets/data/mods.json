@@ -31638,6 +31638,21 @@
           "date": 1794953058,
           "commit-sha": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f"
         }
+      },
+      {
+        "name": "Warcraft 3 Voices Korean",
+        "preview": "Warcraft 3 Voices Korean.webp",
+        "file": "Warcraft 3 Voices Korean.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1795046713,
+          "commit-sha": "9252391ca24d9974bab94fe5b10ad82204d53ddd"
+        }
       }
     ],
     "packs": [
