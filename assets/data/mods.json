@@ -16992,6 +16992,29 @@
           "date": 1794782048,
           "commit-sha": "f97f2cfeeae2ca478bd011d1423c03978b0b765e"
         }
+      },
+      {
+        "name": "Prime Lycan",
+        "preview": "Prime Lycan.webp",
+        "file": "Prime Lycan.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "modded",
+            "url": "armair"
+          },
+          {
+            "type": "author",
+            "url": "Harlord"
+          }
+        ],
+        "meta": {
+          "date": 1794861785,
+          "commit-sha": "248f9226bc523d41795728c0cbc5e9c9d7c9aa98"
+        }
       }
     ],
     "shaders": [
