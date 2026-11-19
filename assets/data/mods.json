@@ -27071,6 +27071,24 @@
           "date": 1795046713,
           "commit-sha": "9252391ca24d9974bab94fe5b10ad82204d53ddd"
         }
+      },
+      {
+        "name": "Saya No Uta Hair",
+        "preview": "Saya No Uta Hair.webp",
+        "file": "Saya No Uta Hair.zip",
+        "tags": {
+          "video": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "roolato"
+          }
+        ],
+        "meta": {
+          "date": 1795085800,
+          "commit-sha": "e8f0c2662b257176e6601f5d898581ec87a09912"
+        }
       }
     ],
     "tools": [
