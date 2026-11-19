@@ -17061,6 +17061,29 @@
           "date": 1794861785,
           "commit-sha": "248f9226bc523d41795728c0cbc5e9c9d7c9aa98"
         }
+      },
+      {
+        "name": "Malrine Type Primal Beast",
+        "preview": "Malrine Type Primal Beast.webp",
+        "file": "Malrine Type Primal Beast.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "modded",
+            "url": "armair"
+          },
+          {
+            "type": "author",
+            "url": "Harlord"
+          }
+        ],
+        "meta": {
+          "date": 1794914486,
+          "commit-sha": "c3df9cb9e54766becce7a3edf3fd6d6b99165e92"
+        }
       }
     ],
     "shaders": [
