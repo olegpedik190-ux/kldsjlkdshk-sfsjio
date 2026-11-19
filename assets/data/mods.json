@@ -22802,6 +22802,21 @@
           "date": 1794347188,
           "commit-sha": "e7fb5a6367295602ea901c681230b66a875d4da5"
         }
+      },
+      {
+        "name": "Viperr Mega Kill",
+        "preview": "Viperr Mega Kill.webp",
+        "file": "Viperr Mega Kill.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "samoredoto"
+          }
+        ],
+        "meta": {
+          "date": 1795046713,
+          "commit-sha": "9252391ca24d9974bab94fe5b10ad82204d53ddd"
+        }
       }
     ],
     "announcers": [
