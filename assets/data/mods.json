@@ -25011,6 +25011,21 @@
           "date": 1793620367,
           "commit-sha": "8eed2edc12453184eeb55e326c73b76fd7e126c3"
         }
+      },
+      {
+        "name": "White Clicks",
+        "preview": "White Clicks.webp",
+        "file": "White Clicks.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "YZT"
+          }
+        ],
+        "meta": {
+          "date": 1794953058,
+          "commit-sha": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f"
+        }
       }
     ],
     "river": [
