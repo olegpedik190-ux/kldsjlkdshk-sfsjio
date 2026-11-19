@@ -17106,6 +17106,21 @@
           "date": 1794953058,
           "commit-sha": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f"
         }
+      },
+      {
+        "name": "Natures Prophet Treant Swap",
+        "preview": "Natures Prophet Treant Swap.webp",
+        "file": "Natures Prophet Treant Swap.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fleece"
+          }
+        ],
+        "meta": {
+          "date": 1795046713,
+          "commit-sha": "9252391ca24d9974bab94fe5b10ad82204d53ddd"
+        }
       }
     ],
     "shaders": [
