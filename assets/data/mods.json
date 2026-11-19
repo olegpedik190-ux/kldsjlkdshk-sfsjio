@@ -31623,6 +31623,21 @@
           "date": 1794953058,
           "commit-sha": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f"
         }
+      },
+      {
+        "name": "Warcraft 3 Voices Spanish",
+        "preview": "Warcraft 3 Voices Spanish.webp",
+        "file": "Warcraft 3 Voices Spanish.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1794953058,
+          "commit-sha": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f"
+        }
       }
     ],
     "packs": [
