@@ -24161,6 +24161,24 @@
           "date": 1794775254,
           "commit-sha": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18"
         }
+      },
+      {
+        "name": "White Match Accept Popup",
+        "preview": "White Match Accept Popup.webp",
+        "file": "White Match Accept Popup.zip",
+        "tags": {
+          "css": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "cursedseizures"
+          }
+        ],
+        "meta": {
+          "date": 1794775254,
+          "commit-sha": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18"
+        }
       }
     ],
     "huds": [
