@@ -25210,6 +25210,21 @@
           "date": 1794953058,
           "commit-sha": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f"
         }
+      },
+      {
+        "name": "Better Damage Numbers",
+        "preview": "Better Damage Numbers.webp",
+        "file": "Better Damage Numbers.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Fr0dech"
+          }
+        ],
+        "meta": {
+          "date": 1795162294,
+          "commit-sha": "e385522091c89de83aff557764e5f5868900ba3c"
+        }
       }
     ],
     "river": [
