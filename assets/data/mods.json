@@ -27396,6 +27396,21 @@
           "date": 1795162294,
           "commit-sha": "e385522091c89de83aff557764e5f5868900ba3c"
         }
+      },
+      {
+        "name": "Ahegao",
+        "preview": "Ahegao.webp",
+        "file": "Ahegao.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "Anonymous"
+          }
+        ],
+        "meta": {
+          "date": 1795162294,
+          "commit-sha": "e385522091c89de83aff557764e5f5868900ba3c"
+        }
       }
     ],
     "tools": [
