@@ -27324,6 +27324,24 @@
           "date": 1795161448,
           "commit-sha": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70"
         }
+      },
+      {
+        "name": "Phantom Lancer",
+        "preview": "Phantom Lancer.webp",
+        "file": "Phantom Lancer.zip",
+        "tags": {
+          "video": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1795161448,
+          "commit-sha": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70"
+        }
       }
     ],
     "tools": [
