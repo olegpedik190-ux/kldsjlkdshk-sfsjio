@@ -17256,6 +17256,25 @@
           "date": 1795161448,
           "commit-sha": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70"
         }
+      },
+      {
+        "name": "Stariy Bog Io",
+        "preview": "Stariy Bog Io.webp",
+        "file": "Stariy Bog Io.zip",
+        "tags": {
+          "effects": true,
+          "icons": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "qizlik"
+          }
+        ],
+        "meta": {
+          "date": 1795162294,
+          "commit-sha": "e385522091c89de83aff557764e5f5868900ba3c"
+        }
       }
     ],
     "shaders": [
