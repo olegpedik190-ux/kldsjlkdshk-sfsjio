@@ -27378,6 +27378,24 @@
           "date": 1795161448,
           "commit-sha": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70"
         }
+      },
+      {
+        "name": "Lily Grace Sunlit",
+        "preview": "Lily Grace Sunlit.webp",
+        "file": "Lily Grace Sunlit.zip",
+        "tags": {
+          "video": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "qoofix"
+          }
+        ],
+        "meta": {
+          "date": 1795162294,
+          "commit-sha": "e385522091c89de83aff557764e5f5868900ba3c"
+        }
       }
     ],
     "tools": [
