@@ -27483,6 +27483,24 @@
           "date": 1795162294,
           "commit-sha": "e385522091c89de83aff557764e5f5868900ba3c"
         }
+      },
+      {
+        "name": "Dark Willow Dota 2",
+        "preview": "Dark Willow Dota 2.webp",
+        "file": "Dark Willow Dota 2.zip",
+        "tags": {
+          "video": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1795162294,
+          "commit-sha": "e385522091c89de83aff557764e5f5868900ba3c"
+        }
       }
     ],
     "tools": [
