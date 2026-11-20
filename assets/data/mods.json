@@ -27360,6 +27360,24 @@
           "date": 1795161448,
           "commit-sha": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70"
         }
+      },
+      {
+        "name": "Invoker",
+        "preview": "Invoker.webp",
+        "file": "Invoker.zip",
+        "tags": {
+          "video": true
+        },
+        "links": [
+          {
+            "type": "author",
+            "url": "XIIIpsiblade"
+          }
+        ],
+        "meta": {
+          "date": 1795161448,
+          "commit-sha": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70"
+        }
       }
     ],
     "tools": [
