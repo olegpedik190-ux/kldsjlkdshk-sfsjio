@@ -28156,6 +28156,21 @@
           "date": 1790528664,
           "commit-sha": "dfa509ee1b96c5e1ab062f60fea4b8893cc210c3"
         }
+      },
+      {
+        "name": "Armlet Fix",
+        "preview": "Armlet Fix.webp",
+        "file": "Armlet Fix.zip",
+        "links": [
+          {
+            "type": "author",
+            "url": "c0nf1"
+          }
+        ],
+        "meta": {
+          "date": 1795162294,
+          "commit-sha": "e385522091c89de83aff557764e5f5868900ba3c"
+        }
       }
     ],
     "wards": [
